@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "04beded621d9bfb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd10d394be355d87",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Statements/Mag08.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aeb7a663d1c212ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "385db67a3b197ed4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0949ff40cfcff41e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a24acaca41e8925c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "579e0bf92298802a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "702a64413a1b0954",
+    "type": "split",
+    "children": [
+      {
+        "id": "85546b554ea3540c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "985d00b4ea3db101",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Statements/Mag08.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0764c00217b11cf4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Statements/Mag08.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8707eef2f7e7df92",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "086aeddefaf85ef4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Statements/Mag08.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0949ff40cfcff41e",
+  "lastOpenFiles": [
+    "Characters/Jonathan Sims.md",
+    "Statements/Mag01.md",
+    "Statements/Mag08.md",
+    "Statements/Mag09.md",
+    "Statements/Mag16.md",
+    "Statements/Mag14.md",
+    "Statements/Mag15.md",
+    "Statements/Mag13.md",
+    "Statements/Mag12.md",
+    "Statements/Mag11.md"
+  ]
+}
