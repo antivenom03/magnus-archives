@@ -17,7 +17,7 @@ jobs:
       - name: Install dependencies
         run: |
           sudo gem install jekyll
-          gem install bundler
+          sudo gem install bundler
 
       - name: Build site
         run: |
