@@ -27,7 +27,7 @@ jobs:
 
       - name: Build site
         run: |
-          bundle exec jekyll build 
+          bundle exec jekyll build /sitefiles/
          
       - name: Deploy to gh-pages
         run: |
@@ -37,7 +37,7 @@ jobs:
           git fetch --all
           git checkout gh-pages
           rm -rf
-          cp -r /_site/ .
+          cp -r /sitefiles/ .
           
       - name: add
         run: |
