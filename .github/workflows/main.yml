@@ -50,4 +50,4 @@ jobs:
           
       - name: push
         run: |
-          git push -u origin gh-pages
+          git push -u https://github.com/antivenom03/magnus-archives.git gh-pages
