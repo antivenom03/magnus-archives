@@ -37,7 +37,7 @@ jobs:
           git fetch --all
           git checkout gh-pages
           rm -rf
-          cp -r /home/runner/work/magnus-archives/magnus-archives/_site .
+          cp -r ./site .
           
       - name: add
         run: |
