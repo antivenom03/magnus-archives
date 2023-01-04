@@ -37,6 +37,9 @@ jobs:
           cd gh-pages
           rm -rf
           cp -r ../_site/ .
+          
+      - name: commit changes
+        run: |
           git add .
           git commit -m "Deploy to gh-pages"
           git push origin gh-pages
