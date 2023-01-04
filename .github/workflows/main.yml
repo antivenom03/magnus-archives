@@ -19,10 +19,11 @@ jobs:
           sudo gem install jekyll bundler
           bundle init
           bundle add jekyll
-          bundle update
+         
 
       - name: Build site
         run: |
+          bundle update
           bundle install
           bundle exec jekyll build
 
