@@ -19,9 +19,7 @@ jobs:
           sudo gem install jekyll bundler
           
       - name: Create Gemfile
-        run: |   
-          sudo bundle init
-          sudo bundle add jekyll
+        run: | 
           sudo bundle update
           bundle install
           
