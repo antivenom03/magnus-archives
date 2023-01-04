@@ -36,6 +36,9 @@ jobs:
           git remote add repo https://github.com/antivenom03/magnus-archives.git
           git clone --branch gh-pages repo
           cd magnus-archives
+          
+      - name: get the shit
+        run: |
           git pull repo main
  
           
