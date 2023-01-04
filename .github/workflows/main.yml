@@ -17,14 +17,16 @@ jobs:
       - name: Install dependencies
         run: |
           sudo gem install jekyll bundler
-          sudo bundle init
           
-         
+      - name: Create Gemfile
+        run: |   
+          sudo bundle init
+          sudo bundle add jekyll
+          sudo bundle update
 
       - name: Build site
         run: |
-          bundle add jekyll
-          bundle update
+         
           bundle install
           bundle exec jekyll build
 
