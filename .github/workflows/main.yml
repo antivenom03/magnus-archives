@@ -38,7 +38,7 @@ jobs:
       - name: clear and copy
         run: |
           rm -rf
-          cp -r ./site .
+          cp -r /home/runner/work/magnus-archives/magnus-archives/_site/ .
           
       - name: add
         run: |
