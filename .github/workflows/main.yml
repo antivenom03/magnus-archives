@@ -23,22 +23,20 @@ jobs:
           sudo bundle init
           sudo bundle add jekyll
           sudo bundle update
+          bundle install
 
       - name: Build site
         run: |
+          bundle exec jekyll build 
          
-          bundle install
-          bundle exec jekyll build magnus-archives/site-files
-
-      # - name: Deploy to gh-pages
-         # run: |
-          #  git config --global user.email jojoivy03@gmail.com
-           # git config --global user.name Jo
-            #git clone https://github.com/antivenom03/magnus-archives.git gh-pages
-            #cd gh-pages
-            #git checkout gh-pages
-           # rm -rf *
-           # cp -r ../_site/* .
-           # git add .
-           # git commit -m "Deploy to gh-pages"
-           # git push origin gh-pages
+      - name: Deploy to gh-pages
+        run: |
+          git config --global user.email jojoivy03@gmail.com
+          git config --global user.name Jo
+          git clone https://github.com/antivenom03/magnus-archives.git gh-pages
+          cd gh-pages
+          rm .
+          cp -r ../_site/ .
+          git add .
+          git commit -m "Deploy to gh-pages"
+          git push origin gh-pages
