@@ -34,6 +34,9 @@ jobs:
           git config --global user.email jojoivy03@gmail.com
           git config --global user.name Jo
           git clone --branch gh-pages https://github.com/antivenom03/magnus-archives.git
+          
+      - name: clear and copy
+        run: |
           rm -rf
           cp -r ./site .
           
