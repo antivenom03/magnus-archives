@@ -29,6 +29,8 @@ jobs:
  
       - name: add
         run: |
+          git config --global user.email "jojoivy03@gmail.com"
+          git config --global user.name "Jo"
           git add .
           
       - name: commit
