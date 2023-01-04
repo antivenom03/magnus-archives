@@ -38,8 +38,12 @@ jobs:
           rm -rf
           cp -r ../_site/ .
           
-      - name: commit changes
+      - name: add
         run: |
           git add .
+      - name: commit
+        run: |
           git commit -m "Deploy to gh-pages"
+      - name: push
+        run: |
           git push origin gh-pages
