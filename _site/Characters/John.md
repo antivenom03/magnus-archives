@@ -1,1 +1,0 @@
-A strange man who paid [[Joshua Galespi]] to watch a strange casket
