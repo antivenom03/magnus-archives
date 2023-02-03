@@ -1,1 +1,0 @@
-Assistant to [[Jonathan Sims]]
