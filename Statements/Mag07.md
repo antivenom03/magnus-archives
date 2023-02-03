@@ -1,4 +1,4 @@
-[[statement]] of [[Clarence Berry]] given Nov 6, 1922 regarding his time serving with [[Willfred Owen]] in the Great War
+statement of [[Clarence Berry]] given Nov 6, 1922 regarding his time serving with [[Willfred Owen]] in the Great War
 
 clarence had a succesful run through the majority of the war
 

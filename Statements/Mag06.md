@@ -1,4 +1,4 @@
-[[statement]] of [[timothy hodge]] given dec 9, 2014 regarding a sexual experience with and the death of [[harriet lee]]
+statement of [[timothy hodge]] given dec 9, 2014 regarding a sexual experience with and the death of [[harriet lee]]
 
 timothy is a designer who mostly stays at home
 

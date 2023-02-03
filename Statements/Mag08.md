@@ -1,4 +1,4 @@
-[[statement]] of [[Ivo Lensik]] given March 13, 2007 regarding experiences while constructing a house on [[Hilltop Rd., Oxford]]
+statement of [[Ivo Lensik]] given March 13, 2007 regarding experiences while constructing a house on [[Hilltop Rd., Oxford]]
 
 Ivo works in construction
 

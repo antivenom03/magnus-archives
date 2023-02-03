@@ -1,4 +1,4 @@
-[[statement]] of [[Amy Pattel]] regarding the dissapearance of [[graham folger]] given july 1, 2007
+statement of [[Amy Pattel]] regarding the dissapearance of [[graham folger]] given july 1, 2007
 
 amy met graham in a class roughly two years ago in [[London]]
 

@@ -1,4 +1,4 @@
-[[statement]] of [[Joshua Galespi]] given nov 22 1998
+statement of [[Joshua Galespi]] given nov 22 1998
 
 On holiday in [[Amsterdam]]
 

@@ -19,11 +19,12 @@
             "id": "9f3f731e4cff3a2a",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd10d394be355d87",
+  "active": "9f3f731e4cff3a2a",
   "lastOpenFiles": [
-    "Statements/statement.md",
-    "Statements/Mag11.md",
+    "Places/the archive.md",
+    "statement.md",
+    "Characters/Jonathan Sims.md",
     "Statements/Mag08.md",
-    "Statements/Mag10.md",
-    "Statements/Mag09.md",
-    "_site/Statements/Mag15.md",
-    "Statements/Mag01.md",
-    "Statements/Mag16.md",
-    "Statements/Mag15.md",
-    "Characters/Jane Prentis.md"
+    "Statements/Mag07.md",
+    "Statements/Mag06.md",
+    "Statements/Mag05.md",
+    "Statements/Mag04.md",
+    "Statements/Mag03.md",
+    "Statements/Mag02.md"
   ]
 }

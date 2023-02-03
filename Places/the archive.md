@@ -1,1 +1,1 @@
-Collection of old [[statement]]s gathered by [[the magnus institute]]
+Collection of old statements gathered by [[the magnus institute]]

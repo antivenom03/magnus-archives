@@ -1,4 +1,4 @@
-[[statement]] of [[Kieran Woodward]] given feb 23, 2009 regarding trash found at [[93 Lancaster RD., Walthamstowe]] 
+statement of [[Kieran Woodward]] given feb 23, 2009 regarding trash found at [[93 Lancaster RD., Walthamstowe]] 
 
 Kieran is a bin man
 

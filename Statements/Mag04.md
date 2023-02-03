@@ -1,4 +1,4 @@
-[[statement]] of [[Dominic Swain]] given june 28th, 2013 regarding a book briefly in his possession
+statement of [[Dominic Swain]] given june 28th, 2013 regarding a book briefly in his possession
 
 dominic works as a theatre worker, primarily handling lights
 
