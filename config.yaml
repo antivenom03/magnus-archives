@@ -1,4 +1,4 @@
-obsidian_entrypoint_path_str: magnus-archives/_Index_of_magnus-archives
+obsidian_entrypoint_path_str: magnus-archives/_Index_of_magnus-archives.md
 toggles: 
     process_all: true
 site_name: 'the magnus archives'
