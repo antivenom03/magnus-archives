@@ -1,0 +1,1 @@
+collector of old, strange books who dealt frequently with [[pinhole books]]
