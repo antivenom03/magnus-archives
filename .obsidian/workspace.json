@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statements/_Index_of_Statements.md",
+                "file": "Characters/Characters.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statements/_Index_of_Statements.md",
+                "file": "Characters/Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statements/_Index_of_Statements.md",
+                "file": "Characters/Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statements/_Index_of_Statements.md"
+                "file": "Characters/Characters.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "9f3f731e4cff3a2a",
   "lastOpenFiles": [
+    "Statements/_Index_of_Statements.md",
     "_Index_of_Magnus Archives.md",
     "Places/the archive.md",
     "statement.md",
@@ -165,7 +166,6 @@
     "Statements/Mag07.md",
     "Statements/Mag06.md",
     "Statements/Mag05.md",
-    "Statements/Mag04.md",
-    "Statements/Mag03.md"
+    "Statements/Mag04.md"
   ]
 }
