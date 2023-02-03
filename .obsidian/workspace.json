@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statements/Mag01.md",
+                "file": "Statements/statement.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f3f731e4cff3a2a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statements/Mag01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statements/Mag01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Statements/Mag01.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,17 +141,27 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dd10d394be355d87",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0949ff40cfcff41e",
   "lastOpenFiles": [
-    "Statements/Mag01.md",
+    "Statements/Mag11.md",
     "Statements/Mag08.md",
-    "Characters/Jonathan Sims.md",
+    "Statements/Mag10.md",
     "Statements/Mag09.md",
+    "_site/Statements/Mag15.md",
+    "Statements/Mag01.md",
+    "Statements/statement.md",
     "Statements/Mag16.md",
-    "Statements/Mag14.md",
     "Statements/Mag15.md",
-    "Statements/Mag13.md",
-    "Statements/Mag12.md",
-    "Statements/Mag11.md"
+    "Characters/Jane Prentis.md"
   ]
 }
