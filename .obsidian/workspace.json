@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Characters.md",
+                "file": "magnus-archives.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Characters.md",
+                "file": "magnus-archives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Characters.md",
+                "file": "magnus-archives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Characters.md"
+                "file": "magnus-archives.md"
               }
             }
           }
@@ -157,6 +157,8 @@
   },
   "active": "9f3f731e4cff3a2a",
   "lastOpenFiles": [
+    "Statements/Mag02.md",
+    "Characters/Characters.md",
     "Statements/_Index_of_Statements.md",
     "_Index_of_Magnus Archives.md",
     "Places/the archive.md",
@@ -164,8 +166,6 @@
     "Characters/Jonathan Sims.md",
     "Statements/Mag08.md",
     "Statements/Mag07.md",
-    "Statements/Mag06.md",
-    "Statements/Mag05.md",
-    "Statements/Mag04.md"
+    "Statements/Mag06.md"
   ]
 }
