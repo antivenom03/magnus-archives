@@ -19,8 +19,12 @@
             "id": "9f3f731e4cff3a2a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Statements/_Index_of_Statements.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Statements/_Index_of_Statements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Statements/_Index_of_Statements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Statements/_Index_of_Statements.md"
+              }
             }
           }
         ]
@@ -149,6 +157,7 @@
   },
   "active": "9f3f731e4cff3a2a",
   "lastOpenFiles": [
+    "_Index_of_Magnus Archives.md",
     "Places/the archive.md",
     "statement.md",
     "Characters/Jonathan Sims.md",
@@ -157,7 +166,6 @@
     "Statements/Mag06.md",
     "Statements/Mag05.md",
     "Statements/Mag04.md",
-    "Statements/Mag03.md",
-    "Statements/Mag02.md"
+    "Statements/Mag03.md"
   ]
 }
