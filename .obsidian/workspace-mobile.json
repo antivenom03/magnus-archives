@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7b7fdf0b43ee0b79",
+        "id": "2a721d7a8826cb7f",
         "type": "tabs",
         "children": [
           {
-            "id": "dd10d394be355d87",
+            "id": "c2d5b627cf721c7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "magnus-archives.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "magnus-archives.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.md",
+            "file": "magnus-archives.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,24 +114,24 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.md"
+            "file": "magnus-archives.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "dd10d394be355d87",
+  "active": "c2d5b627cf721c7c",
   "lastOpenFiles": [
+    "Magnus.md",
+    "MAG 001 - Anglerfish - Transcript Re-formatted.pdf",
+    "Test.md",
     "magnus-archives.md",
     "Statements/Mag08.md",
     "Characters/Jonathan Sims.md",
     "Statements/Mag01.md",
     "Statements/Mag09.md",
     "Statements/Mag16.md",
-    "Statements/Mag14.md",
-    "Statements/Mag15.md",
-    "Statements/Mag13.md",
-    "Statements/Mag12.md"
+    "Statements/Mag14.md"
   ]
 }
