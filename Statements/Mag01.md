@@ -1,3 +1,4 @@
+
 statement given by [[nathan watts]] regarding an experience on [[old fish market close, Edinburgh]] on apr 27, 2012
 
 Celebrating a friend's college acceptance 
