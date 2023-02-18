@@ -36,4 +36,6 @@ It is going to take me a long, long time to organise this mess. I’ve managed t
 
 Well, technically three, but I don’t count [[Martin Blackwood|Martin]] as he’s unlikely to contribute anything but delays.
 
-I plan to digitise the files as much as possible and record audio versions, though some will have to be on tape recorder as my attempts to get them on my laptop have met with... significant audio distortions. Alongside this [[Tim Stoker|Tim]], [[Sasha James|Sasha]] and, yes, I suppose, [[Martin Blackwood|Martin]] will be doing some supplementary investigation to see what details may be missing from what we have.
+I plan to digitise the files as much as possible and record audio versions, though some will have to be on tape recorder as my attempts to get them on my laptop have met with... significant audio distortions. Alongside this [[Tim Stoker|Tim]], [[Sasha James|Sasha]] and, yes, I suppose, [[Martin Blackwood|Martin]] will be doing some supplementary investigation to see what details may be missing from what we have. 
+
+I’ll try to present these in as succinct a fashion as I can at the end of each statement. I can, unfortunately, promise no order in regards to date or theme of the statements that are recorded, and can only apologise to any future researcher attempting to use these files for their own investigations.
