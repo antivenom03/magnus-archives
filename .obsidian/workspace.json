@@ -21,9 +21,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statements/Mag01.md",
+                "file": "Statements/Mag001 - Angler fish.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statements/Mag01.md",
+                "file": "Statements/Mag001 - Angler fish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statements/Mag01.md",
+                "file": "Statements/Mag001 - Angler fish.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statements/Mag01.md"
+                "file": "Statements/Mag001 - Angler fish.md"
               }
             }
           }
@@ -157,6 +157,8 @@
   },
   "active": "9f3f731e4cff3a2a",
   "lastOpenFiles": [
+    "Organizations/the magnus institute.md",
+    "Statements/Mag001 - Angler fish.md",
     "magnus-archives.md",
     "Statements/Mag02.md",
     "Characters/Characters.md",
@@ -164,8 +166,6 @@
     "_Index_of_Magnus Archives.md",
     "Places/the archive.md",
     "statement.md",
-    "Characters/Jonathan Sims.md",
-    "Statements/Mag08.md",
-    "Statements/Mag07.md"
+    "Characters/Jonathan Sims.md"
   ]
 }

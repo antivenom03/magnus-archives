@@ -1,4 +1,7 @@
 {
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "foldHeading": true,
+  "showLineNumber": true,
+  "livePreview": false
 }
