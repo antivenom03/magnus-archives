@@ -6,5 +6,5 @@ toggles:
         styling:
             layout: minimal
         graph:
-            enable: true
+            enabled: true
         process_all: true
