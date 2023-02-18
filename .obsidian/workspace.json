@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statements/Mag001 - Angler fish.md",
+                "file": "Statements/Mag002.md",
                 "mode": "source",
                 "source": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statements/Mag001 - Angler fish.md",
+                "file": "Statements/Mag002.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statements/Mag001 - Angler fish.md",
+                "file": "Statements/Mag002.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statements/Mag001 - Angler fish.md"
+                "file": "Statements/Mag002.md"
               }
             }
           }
@@ -157,6 +157,8 @@
   },
   "active": "9f3f731e4cff3a2a",
   "lastOpenFiles": [
+    "Characters/Gertrude Robinson.md",
+    "Characters/Elias Bouchard.md",
     "Statements/Mag001 - Angler fish.md",
     "Characters/Sasha James.md",
     "Organizations/the magnus institute.md",
@@ -164,8 +166,6 @@
     "Characters/Martin Blackwood.md",
     "Places/the archives.md",
     "magnus-archives.md",
-    "Statements/Mag02.md",
-    "Characters/Characters.md",
-    "Statements/_Index_of_Statements.md"
+    "Statements/Mag002.md"
   ]
 }
