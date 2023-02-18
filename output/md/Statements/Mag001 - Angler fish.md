@@ -60,4 +60,81 @@ I took a gap year before matriculating and my birthday’s in the wrong part of 
    
 [Michael MacAulay](/not_created.md), a good friend of mine, had just been accepted to do a Master’s degree in Earth Sciences so we decided a celebration was in order.   
    
-Well, maybe ‘party’ isn’t quite the right word, we just kind of invaded the Albanach down on the Royal Mile and drank long enough and loud enough that eventually we had the back area to ourselves.
+Well, maybe ‘party’ isn’t quite the right word, we just kind of invaded [the Albanach](/not_created.md) down on the Royal Mile and drank long enough and loud enough that eventually we had the back area to ourselves.   
+   
+Now, I don’t know how well you know the drinking holes of Edinburgh, but [the Albanach](/not_created.md) has a wide selection of some excellent single malts, and I may haveslightly overindulged. I have vague memories of Mike suggesting I slow down, to which I responded by roundly swearing at him for failing to properly celebrate his own good news. Or words to that effect.   
+   
+Long story short, I was violently ill around midnight and made the decision to walk the route home. It wasn’t far to my flat, maybe half an hour if I’d been sober, and the night was cool enough that I remember having a hope the chill would perk me up some.    
+   
+I headed for the Cowgate and the quickest way to get there from the Royal Mile is down [Old Fishmarket Close](/not_created.md).   
+   
+Now, I’m sure you don’t need me to tell you that there are some steep hills in Edinburgh but [Old Fishmarket Close](/not_created.md) is exceptional, even by those standards. At times it must reach a thirty or forty degree angle, which is hard enough to navigate when you don’t have that much scotch inside you.    
+   
+As I have mentioned, I had quite a lot, so it probably wasn’t that surprising when I took a rather nasty tumble about halfway down the street. In retrospect the fall wasn’t that bad compared to what it could have been, but at the time it really shook me up and left me with some nasty bruises.   
+   
+I picked myself up as best I could, checked I hadn’t seriously injured myself, no broken bones or anything, and decided to roll a cigarette to calm myself. That was when I heard it.   
+   
+_Jonathan speaks in a hushed voice_   
+   
+“Can I have a cigarette?”   
+   
+_Jonathan continues Nathan's Statement_   
+   
+I was startled out of my thoughts by the words as I thought I had been alone.    
+   
+Quickly trying to compose myself and looking around, I noticed a small alleyway on the opposite side of the street. It was very narrow and completely unlit with a short staircase leading up. I could see a light fixture a little way up the wall at its entrance, but it either wasn’t working or wasn’t turned on, meaning that beyond a few steps the alley was shrouded in total darkness.   
+   
+Stood there, a couple of stairs from the street, was a figure. It was hard to tell much about them as they were mostly in the shadows, though if I’d had to guess I would have said the voice sounded male. They seemed to sway, ever so slightly, as I watched, and I assumed that they, like me, were probably a little bit drunk.   
+   
+I lit my own cigarette and held out my tobacco towards them, though I didn’t approach, and asked if they were ok with a roll-up. The figure didn’t move except to continue that gentle swaying.    
+   
+Writing it down now, it seems so obvious that something was wrong. If I hadn’t been so drunk maybe I’d have noticed quicker, but even when the stranger asked the question again, “Can I have a cigarette?” utterly without intonation, still I didn’t understand why I was so uneasy.    
+   
+I stared at the stranger and as my eyes began to adjust I could make out more details. I could see that their face appeared blank, expressionless, and their skin seemed damp and slightly sunken, like they had a bad fever. The swaying was more pronounced now, seeming to move from the waist, side to side, back and forth   
+   
+By this point I had finished rolling a second cigarette and gingerly held it out towards them, but I didn’t get any closer. I had decided that if this weirdo wanted a cigarette, they were going to need to come out of the creepy alleyway.    
+   
+They didn’t come closer, didn’t make any movement at all except for that damn swaying. For some reason the thought of an anglerfish popped into my head, the single point of light dangled into the darkness, hiding the thing that lures you in.   
+   
+“Can I have a cigarette?” It spoke again in the same flat voice and I realised exactly what was wrong. Its mouth was closed, had been the whole time. Whatever was repeating that question, it wasn’t the figure in the alleyway.    
+   
+I looked at their feet and saw that they weren’t quite touching the ground. The stranger’s form was being lifted, ever so slightly, and moved gently from side to side.   
+   
+I dropped the cigarette and grabbed for my phone, trying to turn on the torch. I don’t know why I didn’t run or what I hoped to see in that alley, but I wanted to get a better look. As soon as I took out my phone, the figure disappeared. It sort of folded at the waist and vanished back into the darkness, as if a string had gone taut and pulled it back. I turned on the torch and stared into the alley, but I saw nothing. Just silence and darkness.    
+   
+I staggered back up to the Royal Mile, which still had lights and people, and found a taxi to take me home.   
+   
+I slept late the next day. I’d made sure I didn’t have any lectures or classes, as I had intended to be sleeping off a heavy night of drinking, which I guess I was, although it was that bizarre encounter that kept playing in my mind.    
+   
+And so, after making my way through two litres of water, some painkillers and a very greasy breakfast, I felt human enough to leave my flat and go to investigate the place in daylight.    
+   
+The result was unenlightening. There were no marks, no bloodstains, nothing to indicate that the swaying figure had ever been there at all. The only thing I did find was an unsmoked Marlboro Red cigarette, lying just below the burned out light fixture. Beyond that, I didn’t really know what to do.   
+   
+I did as much research as I could on the place, but couldn’t find anyone who’d had any experience similar to mine, and there didn’t seem to be any folklore or urban legends I could find out about [Old Fishmarket Close](/not_created.md).   
+   
+The few friends I told about what happened just assumed I’d been accosted by some stranger and the alcohol had made it seem much weirder than it was. I tried to explain that I’ve never had hallucinations while drunk, and that there was no way this guy had just been a normal person, but they always gave me one of those looks, halfway between pity and concern, and I’d shut up.   
+   
+I never did find out anything else about it, but a few days later I saw some missing person appeals go up around campus.    
+   
+Another student had disappeared. [John Fellowes](/not_created.md), his name was, though I didn’t really know the guy and couldn’t tell you much about him, except for two things that struck me as very important: he had been at that same party and, as far as I remembered, had still been there when I left.    
+   
+The other was just that, well, on the photo they’d used for his missing persons appeal I couldn’t help but notice that there was a pack of Marlboro Red cigarettes poking out of his pocket.   
+   
+I haven’t quit smoking, but I do find that I take a lot more taxis now if I find myself out too late.   
+   
+_statement ends_   
+   
+The investigation at the time, and the follow-up we’ve done over the last couple have days, have found no evidence to corroborate Mr. Watts’ account of his experience. I was initially inclined to re-file this statement in the ‘Discredited’ section of [the Archives](../Places/the%20archives.md), a new category I’ve created that will, I suspect, be housing the majority of these files.   
+   
+However, Sasha did some digging into the police reports of the time and it turns out that between 2005 and 2010, when Mr Watts’ encounter supposedly took place, there were six disappearances in and around [Old Fishmarket Close](/not_created.md): [Jessica McEwen](/not_created.md) in November 2005, [Sarah Baldwin](/not_created.md) in August 2006, [Daniel Rawlings](/not_created.md) in December of the same year, then [Ashley Dobson](/not_created.md) and [Megan Shaw](/not_created.md) in May and June of 2008. Then finally, as Mr Watts mentioned, [John Fellowes](/not_created.md) in March 2010. All six disappearances remain unsolved.   
+   
+Baldwin and Shaw were definitely smokers, but there’s no evidence either way about the others, if they’re even connected. Sasha did find one other thing, specifically in the case of [Ashley Dobson](/not_created.md). It was a copy of the last photograph taken by her phone and sent to her sister Siobhan. The caption was “check out this drunk creeper lol”, but the picture is of a darkened, apparently empty, alleyway, with stairs leading up into it.   
+   
+It appears to be the same alleyway which Mr Watts described in his statement, the one that, according to the maps of the area, leads to Tron Square, but there doesn’t seem to be anyone in the photograph at all.    
+   
+Sasha took the liberty of running it through some editing programs, though, and increasing the contrast appears to reveals the outline of a long, thin hand, roughly at what would be waist level on a male of average height. I find it oddly hard to shake off the impression that it’s beckoning.   
+   
+End recording.   
+   
+>[!info]- outro credits   
+>The Magnus Archives is a podcast distributed by Rusty Quill and licensed under a creative commons attribution, non-commercial share alike 4.0 international license. Today's episode was written by Jonathan Sims and directed by Alexander J Newall. To subscribe, buy merchandise, or join our Patreon, visit rustyquill.com. Rate and review us online. Tweet us @therustyquill, visit us on Facebook, or email us at mail@rustyquill.com. Join us on Instagram at rustyquilluk or join our community via Reddit at r/rustyquill. Thanks for listening.
