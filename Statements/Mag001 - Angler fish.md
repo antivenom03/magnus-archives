@@ -26,8 +26,7 @@ dead ends, predictably enough, as incidents of the supernatural, such as they
 are, (and I always emphasise there are very few genuine cases) tend to resist 
 easy conclusions. 
 
-When an investigation has gone as far as it can, it is transferred to [[the 
-Archives]]. 
+When an investigation has gone as far as it can, it is transferred to [[the archives]]. 
 
 Now, [[the magnus Institute]] was founded in 1818, which means that [[the Archives]] 
 contain almost 200 years of case files at this point.
