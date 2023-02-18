@@ -1,5 +1,10 @@
-obsidian_entrypoint_path_str: magnus-archives/magnus-archives.md
-toggles: 
-    process_all: true
+obsidian_entrypoint_path_str: magnus-archives/magnus-archives.md   
 site_name: 'the magnus archives'
 html_url_prefix: '/magnus-archives'
+toggles: 
+    process_all: true
+    features: 
+        styling:
+            Layout: minimal
+        graph:
+            enable: true
