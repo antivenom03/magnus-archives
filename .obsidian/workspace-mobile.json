@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statements/Mag01.md",
+                "file": "Statements/Mag002 - Do Not Open.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Statements/Mag01.md",
+            "file": "Statements/Mag002 - Do Not Open.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Statements/Mag01.md",
+            "file": "Statements/Mag002 - Do Not Open.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Statements/Mag01.md"
+            "file": "Statements/Mag002 - Do Not Open.md"
           }
         }
       }
@@ -133,15 +133,32 @@
   },
   "active": "c2d5b627cf721c7c",
   "lastOpenFiles": [
+    "Statements/Mag001 - Angler fish.md",
+    "Statements/Mag002 - Do Not Open.md",
     "magnus-archives.md",
+    "Statements/Mag01.md",
+    "Characters/Tim Stoker.md",
+    "Characters/Martin Blackwood.md",
+    "Characters/Sasha James.md",
+    "Places/the archives.md",
+    "/Statements/Mag002.md",
+    "/Organizations/Organizations.md",
+    "/Places/the archives.md",
+    "/Characters/Tim Stoker.md",
+    "/Characters/Sasha James.md",
+    "/Characters/Martin Blackwood.md",
+    "/magnus-archives.md",
+    "/Statements/Statements.md",
+    "/Statements/Mag001 - Angler fish.md",
+    "/Places/Places.md",
+    "/Characters/Jonathan Sims.md",
+    "/Characters/Characters.md",
     "Magnus.md",
     "MAG 001 - Anglerfish - Transcript Re-formatted.pdf",
     "Test.md",
     "Statements/Mag08.md",
     "Characters/Jonathan Sims.md",
-    "Statements/Mag01.md",
     "Statements/Mag09.md",
-    "Statements/Mag16.md",
-    "Statements/Mag14.md"
+    "Statements/Mag16.md"
   ]
 }
