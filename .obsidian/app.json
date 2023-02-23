@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "foldHeading": true,
   "showLineNumber": true,
-  "livePreview": false
+  "livePreview": false,
+  "newLinkFormat": "shortest"
 }
