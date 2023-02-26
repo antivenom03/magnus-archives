@@ -5,6 +5,6 @@ toggles:
     process_all: true
     features: 
         styling:
-            layout: minimal
+            layout: documentation
         graph:
             enabled: true
