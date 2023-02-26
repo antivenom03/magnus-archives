@@ -12,7 +12,7 @@ Test… Test… Test… 1, 2, 3... Right.
 
 _Jonathan clears their throat_
 
-My name is [[Jonathan Sims]]. I work for [[the Magnus Institute]], London, an organisation dedicated to academic research into the esoteric and the paranormal.
+My name is Jonathan Sims. I work for [[the Magnus Institute]], London, an organisation dedicated to academic research into the esoteric and the paranormal.
 
 The head of the Institute, Mr [[Elias Bouchard]], has employed me to replace the previous Head Archivist, one [[Gertrude Robinson]], who has recently passed away.
 
@@ -20,33 +20,33 @@ I have been working as a researcher at the Institute for four years now and am f
 
 When an investigation has gone as far as it can, it is transferred to [[the archives]]. 
 
-Now, [[the magnus Institute]] was founded in 1818, which means that [[the Archives]] contain almost 200 years of case files at this point.
+Now, the magnus Institute was founded in 1818, which means that the Archives contain almost 200 years of case files at this point.
 
-Combine that with the fact that most of [[the magnus institute|the Institute]] prefers the ivory tower of pure academia to the complicated work of dealing with statements or recent experiences and you have the recipe for an impeccably organised library and an absolute mess of an archive.
+Combine that with the fact that most of the Institute prefers the ivory tower of pure academia to the complicated work of dealing with statements or recent experiences and you have the recipe for an impeccably organised library and an absolute mess of an archive.
 
 This isn’t necessarily a problem – modern filing and indexing systems are a real wonder, and all it would need is a half-decent archivist to keep it in order.
 
-[[Gertrude Robinson]] was apparently not that archivist.
+Gertrude Robinson was apparently not that archivist.
 
 From where I am sitting, I can see thousands of files. Many spread loosely around the place, others crushed into unmarked boxes. A few have dates on them or helpful labels such as 86-91 G/H. Not only that, but most of these appear to be handwritten or produced on a typewriter with no accompanying digital or audio versions of any sort. In fact, I believe the first computer to ever enter this room is the laptop that I brought in today. 
 
-More importantly, it seems as though little of the actual investigations have been stored in [[the Archives]], so the only thing in most of the files are the statements themselves.
+More importantly, it seems as though little of the actual investigations have been stored in the Archives, so the only thing in most of the files are the statements themselves.
 
 It is going to take me a long, long time to organise this mess. I’ve managed to secure the services of two researchers to assist me. 
 
 Well, technically three, but I don’t count [[Martin Blackwood|Martin]] as he’s unlikely to contribute anything but delays.
 
-I plan to digitise the files as much as possible and record audio versions, though some will have to be on tape recorder as my attempts to get them on my laptop have met with... significant audio distortions. Alongside this [[Tim Stoker|Tim]], [[Sasha James|Sasha]] and, yes, I suppose, [[Martin Blackwood|Martin]] will be doing some supplementary investigation to see what details may be missing from what we have. 
+I plan to digitise the files as much as possible and record audio versions, though some will have to be on tape recorder as my attempts to get them on my laptop have met with... significant audio distortions. Alongside this [[Tim Stoker|Tim]], [[Sasha James|Sasha]] and, yes, I suppose, Martin will be doing some supplementary investigation to see what details may be missing from what we have. 
 
 I’ll try to present these in as succinct a fashion as I can at the end of each statement. I can, unfortunately, promise no order in regards to date or theme of the statements that are recorded, and can only apologise to any future researcher attempting to use these files for their own investigations.
 
 That’s probably enough time spent making my excuses for the state of this place, and I suppose we have to begin somewhere.
 
-Statement of [[Nathan Watts]], regarding an encounter on [[Old Fishmarket Close, Edinburgh]]. Original statement given April 22nd 2012. Audio recording by [[Jonathan Sims]], Head Archivist of [[the Magnus Institute]], London.
+Statement of [[Nathan Watts]], regarding an encounter on [[Old Fishmarket Close, Edinburgh]]. Original statement given April 22nd 2012. Audio recording by Jonathan Sims, Head Archivist of the Magnus Institute, London.
 
 Statement begins.
 
-[[Nathan Watts]], read by [[Jonathan Sims]]
+Nathan Watts, read by Jonathan Sims:
 
 This all happened a couple of years ago, so I apologise if some of the details are a bit off. I mean, I feel like I remember it clearly but sometimes things are so weird that you start to doubt yourself. Still, I suppose weird is kind of what you guys do, right?
 
@@ -58,13 +58,13 @@ I took a gap year before matriculating and my birthday’s in the wrong part of 
 
 Well, maybe ‘party’ isn’t quite the right word, we just kind of invaded [[the Albanach]] down on the Royal Mile and drank long enough and loud enough that eventually we had the back area to ourselves.
 
-Now, I don’t know how well you know the drinking holes of Edinburgh, but [[the Albanach]] has a wide selection of some excellent single malts, and I may haveslightly overindulged. I have vague memories of Mike suggesting I slow down, to which I responded by roundly swearing at him for failing to properly celebrate his own good news. Or words to that effect.
+Now, I don’t know how well you know the drinking holes of Edinburgh, but the Albanach has a wide selection of some excellent single malts, and I may haveslightly overindulged. I have vague memories of Mike suggesting I slow down, to which I responded by roundly swearing at him for failing to properly celebrate his own good news. Or words to that effect.
 
 Long story short, I was violently ill around midnight and made the decision to walk the route home. It wasn’t far to my flat, maybe half an hour if I’d been sober, and the night was cool enough that I remember having a hope the chill would perk me up some. 
 
-I headed for the Cowgate and the quickest way to get there from the Royal Mile is down [[Old Fishmarket Close, Edinburgh|Old Fishmarket Close]].
+I headed for the Cowgate and the quickest way to get there from the Royal Mile is down Old Fishmarket Close.
 
-Now, I’m sure you don’t need me to tell you that there are some steep hills in Edinburgh but [[Old Fishmarket Close, Edinburgh|Old Fishmarket Close]] is exceptional, even by those standards. At times it must reach a thirty or forty degree angle, which is hard enough to navigate when you don’t have that much scotch inside you. 
+Now, I’m sure you don’t need me to tell you that there are some steep hills in Edinburgh but Old Fishmarket Close is exceptional, even by those standards. At times it must reach a thirty or forty degree angle, which is hard enough to navigate when you don’t have that much scotch inside you. 
 
 As I have mentioned, I had quite a lot, so it probably wasn’t that surprising when I took a rather nasty tumble about halfway down the street. In retrospect the fall wasn’t that bad compared to what it could have been, but at the time it really shook me up and left me with some nasty bruises.
 
@@ -106,7 +106,7 @@ And so, after making my way through two litres of water, some painkillers and a 
 
 The result was unenlightening. There were no marks, no bloodstains, nothing to indicate that the swaying figure had ever been there at all. The only thing I did find was an unsmoked Marlboro Red cigarette, lying just below the burned out light fixture. Beyond that, I didn’t really know what to do.
 
-I did as much research as I could on the place, but couldn’t find anyone who’d had any experience similar to mine, and there didn’t seem to be any folklore or urban legends I could find out about [[Old Fishmarket Close, Edinburgh|Old Fishmarket Close]].
+I did as much research as I could on the place, but couldn’t find anyone who’d had any experience similar to mine, and there didn’t seem to be any folklore or urban legends I could find out about Old Fishmarket Close.
 
 The few friends I told about what happened just assumed I’d been accosted by some stranger and the alcohol had made it seem much weirder than it was. I tried to explain that I’ve never had hallucinations while drunk, and that there was no way this guy had just been a normal person, but they always gave me one of those looks, halfway between pity and concern, and I’d shut up.
 
@@ -120,11 +120,11 @@ I haven’t quit smoking, but I do find that I take a lot more taxis now if I fi
 
 _statement ends_
 
-The investigation at the time, and the follow-up we’ve done over the last couple have days, have found no evidence to corroborate Mr. Watts’ account of his experience. I was initially inclined to re-file this statement in the ‘Discredited’ section of [[the Archives]], a new category I’ve created that will, I suspect, be housing the majority of these files.
+The investigation at the time, and the follow-up we’ve done over the last couple have days, have found no evidence to corroborate Mr. Watts’ account of his experience. I was initially inclined to re-file this statement in the ‘Discredited’ section of the Archives, a new category I’ve created that will, I suspect, be housing the majority of these files.
 
-However, Sasha did some digging into the police reports of the time and it turns out that between 2005 and 2010, when Mr Watts’ encounter supposedly took place, there were six disappearances in and around [[Old Fishmarket Close, Edinburgh|Old Fishmarket Close]]: [[Jessica McEwen]] in November 2005, [[Sarah Baldwin]] in August 2006, [[Daniel Rawlings]] in December of the same year, then [[Ashley Dobson]] and [[Megan Shaw]] in May and June of 2008. Then finally, as Mr Watts mentioned, [[John Fellowes]] in March 2010. All six disappearances remain unsolved.
+However, Sasha did some digging into the police reports of the time and it turns out that between 2005 and 2010, when Mr Watts’ encounter supposedly took place, there were six disappearances in and around Old Fishmarket Close: [[Jessica McEwen]] in November 2005, [[Sarah Baldwin]] in August 2006, [[Daniel Rawlings]] in December of the same year, then [[Ashley Dobson]] and [[Megan Shaw]] in May and June of 2008. Then finally, as Mr Watts mentioned, John Fellowes in March 2010. All six disappearances remain unsolved.
 
-Baldwin and Shaw were definitely smokers, but there’s no evidence either way about the others, if they’re even connected. Sasha did find one other thing, specifically in the case of [[Ashley Dobson]]. It was a copy of the last photograph taken by her phone and sent to her sister Siobhan. The caption was “check out this drunk creeper lol”, but the picture is of a darkened, apparently empty, alleyway, with stairs leading up into it.
+Baldwin and Shaw were definitely smokers, but there’s no evidence either way about the others, if they’re even connected. Sasha did find one other thing, specifically in the case of Ashley Dobson. It was a copy of the last photograph taken by her phone and sent to her sister Siobhan. The caption was “check out this drunk creeper lol”, but the picture is of a darkened, apparently empty, alleyway, with stairs leading up into it.
 
 It appears to be the same alleyway which Mr Watts described in his statement, the one that, according to the maps of the area, leads to Tron Square, but there doesn’t seem to be anyone in the photograph at all. 
 

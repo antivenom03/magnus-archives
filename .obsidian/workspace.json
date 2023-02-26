@@ -8,23 +8,61 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd10d394be355d87",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "9f3f731e4cff3a2a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
+              "type": "markdown",
+              "state": {
+                "file": "Statements/Mag1 - Angler fish.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "429b80b2cc76827e"
+          }
+        ]
+      },
+      {
+        "id": "3514f0253579f60b",
+        "type": "split",
+        "children": [
+          {
+            "id": "950882b6664132a8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dd10d394be355d87",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "edb14f44daa00c87",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cd788e16d075ee8b",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Statements/Mag1 - Angler fish.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                },
+                "group": "429b80b2cc76827e"
+              }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -90,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Statements/Mag1 - Angler fish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Statements/Mag1 - Angler fish.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Statements/Mag1 - Angler fish.md"
+              }
             }
           }
         ]
@@ -149,6 +191,8 @@
   },
   "active": "9f3f731e4cff3a2a",
   "lastOpenFiles": [
+    "John Fellowes.md",
+    "Statements/Mag1 - Angler fish.md",
     "Statements/Mag002.md",
     "Characters/Gertrude Robinson.md",
     "Characters/Elias Bouchard.md",
@@ -156,8 +200,6 @@
     "Characters/Sasha James.md",
     "Organizations/the magnus institute.md",
     "Characters/Tim Stoker.md",
-    "Characters/Martin Blackwood.md",
-    "Places/the archives.md",
-    "magnus-archives.md"
+    "Characters/Martin Blackwood.md"
   ]
 }
