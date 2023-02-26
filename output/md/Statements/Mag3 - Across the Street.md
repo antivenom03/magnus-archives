@@ -4,7 +4,7 @@ tags: []
    
 statement of [Amy Pattel](/not_created.md) regarding the dissapearance of [graham folger](/not_created.md) given july 1, 2007   
    
-amy met graham in a class roughly two years ago in [London](/not_created.md)   
+amy met graham in a class roughly two years ago in London   
    
 graham chainsmoked, was about 10 years older than amy, and was constantly scribbling in a notebook despite the claim that he does not take notes   
    
