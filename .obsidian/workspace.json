@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statements/Mag2 - Do Not Open.md",
+                "file": "Statements/Mag3 - Across the Street.md",
                 "mode": "source",
                 "source": true
               }
@@ -52,7 +52,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Statements/Mag2 - Do Not Open.md",
+                    "file": "Statements/Mag3 - Across the Street.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statements/Mag2 - Do Not Open.md",
+                "file": "Statements/Mag3 - Across the Street.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statements/Mag2 - Do Not Open.md",
+                "file": "Statements/Mag3 - Across the Street.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statements/Mag2 - Do Not Open.md"
+                "file": "Statements/Mag3 - Across the Street.md"
               }
             }
           }
@@ -191,6 +191,7 @@
   },
   "active": "9f3f731e4cff3a2a",
   "lastOpenFiles": [
+    "Statements/Mag2 - Do Not Open.md",
     "Statements/Mag1 - Angler fish.md",
     "John Fellowes.md",
     "Statements/Mag002.md",
@@ -199,7 +200,6 @@
     "Statements/Mag001 - Angler fish.md",
     "Characters/Sasha James.md",
     "Organizations/the magnus institute.md",
-    "Characters/Tim Stoker.md",
-    "Characters/Martin Blackwood.md"
+    "Characters/Tim Stoker.md"
   ]
 }

@@ -1,6 +1,6 @@
 statement of [[Amy Pattel]] regarding the dissapearance of [[graham folger]] given july 1, 2007
 
-amy met graham in a class roughly two years ago in [[London]]
+amy met graham in a class roughly two years ago in London
 
 graham chainsmoked, was about 10 years older than amy, and was constantly scribbling in a notebook despite the claim that he does not take notes
 
