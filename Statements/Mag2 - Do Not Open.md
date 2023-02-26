@@ -14,5 +14,5 @@ Audio recording by Jonathan Sims, Head Archivist of the Magnus Institute, London
 
 Statement begins.
 
-[[Joshua Galespi]], read by [[Jonathan Sims]]:
+[[Joshua Galespi]], read by Jonathan Sims:
 
