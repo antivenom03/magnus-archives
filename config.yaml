@@ -6,3 +6,6 @@ toggles:
     features: 
         styling:
             layout: documentation
+        side_pane:
+            right_pane:
+                enabled: false
