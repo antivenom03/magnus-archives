@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c4bd536d13dc2e14",
+        "id": "035bd5c04ae16998",
         "type": "tabs",
         "children": [
           {
@@ -13,56 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "magnus-archives.md",
+                "file": "Statements/Mag2 - Do Not Open.md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "429b80b2cc76827e"
+            }
           }
         ]
       },
       {
-        "id": "3514f0253579f60b",
-        "type": "split",
+        "id": "58f30c793841babe",
+        "type": "tabs",
         "children": [
           {
-            "id": "950882b6664132a8",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "dd10d394be355d87",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true
-                }
-              }
-            ]
-          },
-          {
-            "id": "edb14f44daa00c87",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cd788e16d075ee8b",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "magnus-archives.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                },
-                "group": "429b80b2cc76827e"
-              }
-            ]
+            "id": "d036ece1fcb1e356",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "magnus-archives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "magnus-archives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "magnus-archives.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -189,10 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f3f731e4cff3a2a",
+  "active": "0949ff40cfcff41e",
   "lastOpenFiles": [
-    "Statements/Mag3 - Across the Street.md",
     "Statements/Mag2 - Do Not Open.md",
+    "MAG 002 - Do Not Open - Transcript Re-formatted.pdf",
+    "magnus-archives.md",
+    "Statements/Mag3 - Across the Street.md",
     "Statements/Mag1 - Angler fish.md",
     "John Fellowes.md",
     "Statements/Mag002.md",
