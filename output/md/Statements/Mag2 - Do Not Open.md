@@ -18,4 +18,6 @@ Audio recording by Jonathan Sims, Head Archivist of the Magnus Institute, London
    
 Statement begins.   
    
-[Joshua Galespi](/not_created.md), read by Jonathan Sims:
+[Joshua Galespi](/not_created.md), read by Jonathan Sims:   
+   
+![](MAG%20002%20-%20Do%20Not%20Open%20-%20Transcript%20Re-formatted.pdf)
