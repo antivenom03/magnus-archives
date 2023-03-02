@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "cc4525c007d4a5f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "homepage.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statements/Mag2 - Do Not Open.md",
+                "file": "homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statements/Mag2 - Do Not Open.md",
+                "file": "homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statements/Mag2 - Do Not Open.md"
+                "file": "homepage.md"
               }
             }
           }
@@ -146,15 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f3f731e4cff3a2a",
+  "active": "cc4525c007d4a5f4",
   "lastOpenFiles": [
     "magnus-archives.md",
+    "Statements/Statements.md",
+    "homepage.md",
+    "Statements/Mag2 - Do Not Open.md",
     "pdfs/MAG 002 - Do Not Open - Transcript Re-formatted.pdf",
     "pdfs/pdfs.md",
     "Places/the archives.md",
     "pdfs",
-    "Statements/Mag2 - Do Not Open.md",
-    "Statements/Statements.md",
     "MAG 002 - Do Not Open - Transcript Re-formatted.pdf",
     "Statements/Mag3 - Across the Street.md",
     "Statements/Mag1 - Angler fish.md",
