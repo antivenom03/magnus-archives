@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statements/Mag2 - Do Not Open.md",
+                "file": "magnus-archives.md",
                 "mode": "source",
                 "source": true
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "58f30c793841babe",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d036ece1fcb1e356",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -99,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "magnus-archives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "magnus-archives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "magnus-archives.md"
+              }
             }
           }
         ]
@@ -156,11 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0949ff40cfcff41e",
+  "active": "9f3f731e4cff3a2a",
   "lastOpenFiles": [
-    "Statements/Mag2 - Do Not Open.md",
-    "MAG 002 - Do Not Open - Transcript Re-formatted.pdf",
+    "pdfs/MAG 002 - Do Not Open - Transcript Re-formatted.pdf",
     "magnus-archives.md",
+    "pdfs/pdfs.md",
+    "Places/the archives.md",
+    "pdfs",
+    "Statements/Mag2 - Do Not Open.md",
+    "Statements/Statements.md",
+    "MAG 002 - Do Not Open - Transcript Re-formatted.pdf",
     "Statements/Mag3 - Across the Street.md",
     "Statements/Mag1 - Angler fish.md",
     "John Fellowes.md",

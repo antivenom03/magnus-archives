@@ -16,4 +16,3 @@ Statement begins.
 
 [[Joshua Galespi]], read by Jonathan Sims:
 
-![[MAG 002 - Do Not Open - Transcript Re-formatted.pdf]]
