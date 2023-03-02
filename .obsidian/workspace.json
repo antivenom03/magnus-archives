@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "magnus-archives.md",
+                "file": "Statements/Mag2 - Do Not Open.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "magnus-archives.md",
+                "file": "Statements/Mag2 - Do Not Open.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "magnus-archives.md",
+                "file": "Statements/Mag2 - Do Not Open.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "magnus-archives.md"
+                "file": "Statements/Mag2 - Do Not Open.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "9f3f731e4cff3a2a",
   "lastOpenFiles": [
-    "pdfs/MAG 002 - Do Not Open - Transcript Re-formatted.pdf",
     "magnus-archives.md",
+    "pdfs/MAG 002 - Do Not Open - Transcript Re-formatted.pdf",
     "pdfs/pdfs.md",
     "Places/the archives.md",
     "pdfs",
