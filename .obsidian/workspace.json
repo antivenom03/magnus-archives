@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homepage.md",
+                "file": "magnus-archives.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "homepage.md",
+                "file": "magnus-archives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "homepage.md",
+                "file": "magnus-archives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "homepage.md"
+                "file": "magnus-archives.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "9f3f731e4cff3a2a",
   "lastOpenFiles": [
+    "homepage.md",
     "Statements/Mag2 - Do Not Open.md",
     "Statements/Mag1 - Angler fish.md",
-    "homepage.md",
     "magnus-archives.md",
     "Statements/Statements.md",
     "pdfs/MAG 002 - Do Not Open - Transcript Re-formatted.pdf",
