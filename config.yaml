@@ -7,8 +7,8 @@ toggles:
     features: 
         styling:
             layout: documentation
-        tags_pane: 
+        tags_page: 
             enabled: false
         side_pane:
-            right_page:
+            right_pane:
                 enabled: false
