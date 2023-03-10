@@ -10,5 +10,5 @@ toggles:
         tags_pane: 
             enabled: false
         side_pane:
-            right_pane:
+            right_page:
                 enabled: false
