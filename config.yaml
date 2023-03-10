@@ -2,7 +2,6 @@ obsidian_entrypoint_path_str: magnus-archives/homepage.md
 site_name: 'the magnus archives'
 html_url_prefix: '/magnus-archives'
 toggles: 
-    no_clean: false
     process_all: true
     features: 
         styling:
@@ -10,12 +9,7 @@ toggles:
         tags_page: 
             enabled: false
         create_index_from_dir_structure:
-            enabled: True
-            verbose: False
-            rel_output_path: 'obs.html/dir_index.html'
-            styling: 
-                show_icon: True
-            homepage_label: "homepage"
+            enabled: false
         side_pane:
             left_pane:
                 enabled: false
