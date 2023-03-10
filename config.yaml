@@ -18,6 +18,6 @@ toggles:
             homepage_label: "homepage"
         side_pane:
             left_pane:
-                contents: toc
+                enabled: false
             right_pane:
                 enabled: false
