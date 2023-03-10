@@ -1,7 +1,6 @@
 ---
 obs.html.tags: dont_add_embedded_title
 tags: []
-title: homepage
 ---
    
 If you've found this then welcome.   
