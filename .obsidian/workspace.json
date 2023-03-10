@@ -11,12 +11,8 @@
             "id": "9f3f731e4cff3a2a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "homepage.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "homepage.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,15 +138,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f3f731e4cff3a2a",
+  "active": "0949ff40cfcff41e",
   "lastOpenFiles": [
+    "Organizations/Organizations.md",
+    "Places/Places.md",
     "magnus-archives.md",
-    "Statements/Mag3 - Across the Street.md",
+    "Characters/Characters.md",
+    "Characters/Gertrude Robinson.md",
+    "Statements/Mag5 - Thrown Away.md",
+    "Statements/Statements.md",
     "Statements/Mag1 - Angler fish.md",
     "Statements/Mag2 - Do Not Open.md",
     "homepage.md",
+    "Statements/Mag3 - Across the Street.md",
     "Statements/Mag8 - Burned Out.md",
-    "Statements/Statements.md",
     "pdfs/MAG 002 - Do Not Open - Transcript Re-formatted.pdf",
     "pdfs/pdfs.md",
     "Places/the archives.md",
@@ -162,7 +159,6 @@
     "MAG 002 - Do Not Open - Transcript Re-formatted.pdf",
     "John Fellowes.md",
     "Statements/Mag002.md",
-    "Characters/Gertrude Robinson.md",
     "Characters/Elias Bouchard.md",
     "Statements/Mag001 - Angler fish.md",
     "Characters/Sasha James.md",
