@@ -2,10 +2,13 @@ obsidian_entrypoint_path_str: magnus-archives/homepage.md
 site_name: 'the magnus archives'
 html_url_prefix: '/magnus-archives'
 toggles: 
+    no_clean: false
     process_all: true
     features: 
         styling:
             layout: documentation
+        tags_pane: 
+            enabled: false
         side_pane:
             right_pane:
                 enabled: false
