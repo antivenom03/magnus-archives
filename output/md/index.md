@@ -1,4 +1,5 @@
 ---
+obs.html.tags: dont_add_embedded_title
 tags: []
 title: homepage
 ---
