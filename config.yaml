@@ -12,19 +12,12 @@ toggles:
         create_index_from_dir_structure:
             enabled: True
             verbose: False
-        rel_output_path: 'obs.html/dir_index.html'
-        styling: 
-            show_icon: True
-        exclude_subfolders:
-           - ".git"
-           - "__src"
-           - "md"
-           - "obs.html"
-         exclude_files:
-           - ".gitignore"
-           - "favicon.ico"
-           - "not_created.html"
-         homepage_label: "homepage"
-         side_pane:
+            rel_output_path: 'obs.html/dir_index.html'
+            styling: 
+                show_icon: True
+            exclude_subfolders: ".git", "__src", "md", "obs.html"
+            exclude_files: ".gitignore", "favicon.ico", "not_created.html"
+            homepage_label: "homepage"
+        side_pane:
            right_pane:
               enabled: false
