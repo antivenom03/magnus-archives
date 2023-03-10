@@ -5,7 +5,11 @@
 >- Mentions of: Isolation, stress, human remains, suffocation, food
 >- SFX: High-pitched tones
 
-[[Jonathan Sims]]:
+>[!info]- Linked Pages
+>[[Jonathan Sims]]
+
+
+Jonathan Sims:
 Statement of Joshua Gillespie, regarding his time in possession of an apparently empty wooden casket. 
 
 Original statement given November 22nd 1998. 

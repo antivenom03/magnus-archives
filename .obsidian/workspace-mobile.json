@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statements/Mag1 - Angler fish.md",
-                "mode": "preview",
+                "file": "Statements/Mag2 - Do Not Open.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Statements/Mag1 - Angler fish.md",
+            "file": "Statements/Mag2 - Do Not Open.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Statements/Mag1 - Angler fish.md",
+            "file": "Statements/Mag2 - Do Not Open.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Statements/Mag1 - Angler fish.md"
+            "file": "Statements/Mag2 - Do Not Open.md"
           }
         }
       }
@@ -134,6 +134,7 @@
   },
   "active": "c2d5b627cf721c7c",
   "lastOpenFiles": [
+    "Statements/Mag1 - Angler fish.md",
     "magnus-archives.md",
     "Statements/Mag8 - Burned Out.md",
     "homepage.md",
@@ -148,7 +149,6 @@
     "Statements/Mag4 - Page Turner.md",
     "Statements/Mag3 - Across the Street.md",
     "Statements/Mag2 - Do Not Open.md",
-    "Statements/Mag1 - Angler fish.md",
     "Characters/Jonathan Sims.md",
     "Statements/Mag01.md",
     "Characters/Tim Stoker.md",
