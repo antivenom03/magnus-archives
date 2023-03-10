@@ -11,18 +11,38 @@ tags: []
 >- Mentions of: Death, emetophobia, injury, food, hallucinations   
 >- SFX: Brief static   
    
-[Jonathan Sims](../Characters/Jonathan%20Sims.md):   
+>[!info]- Linked Pages   
+>[Jonathan Sims](../Characters/Jonathan%20Sims.md)   
+>[the magnus institute](../Organizations/the%20magnus%20institute.md)   
+>[Elias Bouchard](../Characters/Elias%20Bouchard.md)   
+>[Gertrude Robinson](../Characters/Gertrude%20Robinson.md)   
+>[the archives](../Places/the%20archives.md)   
+>[Martin Blackwood](../Characters/Martin%20Blackwood.md)   
+>[Tim Stoker](../Characters/Tim%20Stoker.md)   
+>[Sasha James](../Characters/Sasha%20James.md)   
+>[Nathan Watts](/not_created.md)   
+>[Old Fishmarket Close, Edinburgh](/not_created.md)   
+>[Michael MacAulay](/not_created.md)   
+>[the Albanach](/not_created.md)   
+>[John Fellowes](/not_created.md)   
+>[Jessica McEwen](/not_created.md)   
+>[Sarah Baldwin](/not_created.md)   
+>[Daniel Rawlings](/not_created.md)   
+>[Ashley Dobson](/not_created.md)   
+>[Megan Shaw](/not_created.md)   
+   
+Jonathan Sims:   
 Test… Test… Test… 1, 2, 3... Right.    
    
 _Jonathan clears their throat_   
    
-My name is Jonathan Sims. I work for [the Magnus Institute](../Organizations/the%20magnus%20institute.md), London, an organisation dedicated to academic research into the esoteric and the paranormal.   
+My name is Jonathan Sims. I work for the Magnus Institute, London, an organisation dedicated to academic research into the esoteric and the paranormal.   
    
-The head of the Institute, Mr [Elias Bouchard](../Characters/Elias%20Bouchard.md), has employed me to replace the previous Head Archivist, one [Gertrude Robinson](../Characters/Gertrude%20Robinson.md), who has recently passed away.   
+The head of the Institute, Mr Elias Bouchard, has employed me to replace the previous Head Archivist, one Gertrude Robinson, who has recently passed away.   
    
 I have been working as a researcher at the Institute for four years now and am familiar with most of our more significant contracts and projects. Most reach dead ends, predictably enough, as incidents of the supernatural, such as they are, (and I always emphasise there are very few genuine cases) tend to resist easy conclusions.    
    
-When an investigation has gone as far as it can, it is transferred to [the archives](../Places/the%20archives.md).    
+When an investigation has gone as far as it can, it is transferred to the archives.    
    
 Now, the magnus Institute was founded in 1818, which means that the Archives contain almost 200 years of case files at this point.   
    
@@ -38,15 +58,15 @@ More importantly, it seems as though little of the actual investigations have be
    
 It is going to take me a long, long time to organise this mess. I’ve managed to secure the services of two researchers to assist me.    
    
-Well, technically three, but I don’t count [Martin](../Characters/Martin%20Blackwood.md) as he’s unlikely to contribute anything but delays.   
+Well, technically three, but I don’t count Martin as he’s unlikely to contribute anything but delays.   
    
-I plan to digitise the files as much as possible and record audio versions, though some will have to be on tape recorder as my attempts to get them on my laptop have met with... significant audio distortions. Alongside this [Tim](../Characters/Tim%20Stoker.md), [Sasha](../Characters/Sasha%20James.md) and, yes, I suppose, Martin will be doing some supplementary investigation to see what details may be missing from what we have.    
+I plan to digitise the files as much as possible and record audio versions, though some will have to be on tape recorder as my attempts to get them on my laptop have met with... significant audio distortions. Alongside this Tim, Sasha and, yes, I suppose, Martin will be doing some supplementary investigation to see what details may be missing from what we have.    
    
 I’ll try to present these in as succinct a fashion as I can at the end of each statement. I can, unfortunately, promise no order in regards to date or theme of the statements that are recorded, and can only apologise to any future researcher attempting to use these files for their own investigations.   
    
 That’s probably enough time spent making my excuses for the state of this place, and I suppose we have to begin somewhere.   
    
-Statement of [Nathan Watts](/not_created.md), regarding an encounter on [Old Fishmarket Close, Edinburgh](/not_created.md). Original statement given April 22nd 2012. Audio recording by Jonathan Sims, Head Archivist of the Magnus Institute, London.   
+Statement of Nathan Watts, regarding an encounter on Old Fishmarket Close, Edinburgh. Original statement given April 22nd 2012. Audio recording by Jonathan Sims, Head Archivist of the Magnus Institute, London.   
    
 Statement begins.   
    
@@ -58,9 +78,9 @@ So I’m studying at the University of Edinburgh. Biochemistry, specifically, an
    
 I took a gap year before matriculating and my birthday’s in the wrong part of September, so I was nearly two years older than most of my peers when I started my course. I got on with them fine, you understand, but I tended to end up hanging out with some of the older students. That’s why I was at the party in the first place.   
    
-[Michael MacAulay](/not_created.md), a good friend of mine, had just been accepted to do a Master’s degree in Earth Sciences so we decided a celebration was in order.   
+Michael MacAulay, a good friend of mine, had just been accepted to do a Master’s degree in Earth Sciences so we decided a celebration was in order.   
    
-Well, maybe ‘party’ isn’t quite the right word, we just kind of invaded [the Albanach](/not_created.md) down on the Royal Mile and drank long enough and loud enough that eventually we had the back area to ourselves.   
+Well, maybe ‘party’ isn’t quite the right word, we just kind of invaded the Albanach down on the Royal Mile and drank long enough and loud enough that eventually we had the back area to ourselves.   
    
 Now, I don’t know how well you know the drinking holes of Edinburgh, but the Albanach has a wide selection of some excellent single malts, and I may haveslightly overindulged. I have vague memories of Mike suggesting I slow down, to which I responded by roundly swearing at him for failing to properly celebrate his own good news. Or words to that effect.   
    
@@ -116,7 +136,7 @@ The few friends I told about what happened just assumed I’d been accosted by s
    
 I never did find out anything else about it, but a few days later I saw some missing person appeals go up around campus.    
    
-Another student had disappeared. [John Fellowes](/not_created.md), his name was, though I didn’t really know the guy and couldn’t tell you much about him, except for two things that struck me as very important: he had been at that same party and, as far as I remembered, had still been there when I left.    
+Another student had disappeared. John Fellowes, his name was, though I didn’t really know the guy and couldn’t tell you much about him, except for two things that struck me as very important: he had been at that same party and, as far as I remembered, had still been there when I left.    
    
 The other was just that, well, on the photo they’d used for his missing persons appeal I couldn’t help but notice that there was a pack of Marlboro Red cigarettes poking out of his pocket.   
    
@@ -126,7 +146,7 @@ _statement ends_
    
 The investigation at the time, and the follow-up we’ve done over the last couple have days, have found no evidence to corroborate Mr. Watts’ account of his experience. I was initially inclined to re-file this statement in the ‘Discredited’ section of the Archives, a new category I’ve created that will, I suspect, be housing the majority of these files.   
    
-However, Sasha did some digging into the police reports of the time and it turns out that between 2005 and 2010, when Mr Watts’ encounter supposedly took place, there were six disappearances in and around Old Fishmarket Close: [Jessica McEwen](/not_created.md) in November 2005, [Sarah Baldwin](/not_created.md) in August 2006, [Daniel Rawlings](/not_created.md) in December of the same year, then [Ashley Dobson](/not_created.md) and [Megan Shaw](/not_created.md) in May and June of 2008. Then finally, as Mr Watts mentioned, John Fellowes in March 2010. All six disappearances remain unsolved.   
+However, Sasha did some digging into the police reports of the time and it turns out that between 2005 and 2010, when Mr Watts’ encounter supposedly took place, there were six disappearances in and around Old Fishmarket Close: Jessica McEwen in November 2005, Sarah Baldwin in August 2006, Daniel Rawlings in December of the same year, then Ashley Dobson and Megan Shaw in May and June of 2008. Then finally, as Mr Watts mentioned, John Fellowes in March 2010. All six disappearances remain unsolved.   
    
 Baldwin and Shaw were definitely smokers, but there’s no evidence either way about the others, if they’re even connected. Sasha did find one other thing, specifically in the case of Ashley Dobson. It was a copy of the last photograph taken by her phone and sent to her sister Siobhan. The caption was “check out this drunk creeper lol”, but the picture is of a darkened, apparently empty, alleyway, with stairs leading up into it.   
    
