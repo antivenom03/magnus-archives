@@ -3,7 +3,7 @@ tags: []
 ---
    
 >[!info]- Linked Pages   
-   
+>[Jonathan Sims](../Characters/Jonathan%20Sims.md)   
    
 statement of [Amy Pattel](/not_created.md) regarding the dissapearance of [graham folger](/not_created.md) given july 1, 2007   
    
