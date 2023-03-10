@@ -17,5 +17,7 @@ toggles:
                 show_icon: True
             homepage_label: "homepage"
         side_pane:
-           right_pane:
-              enabled: false
+            left_pane:
+                contents: toc
+            right_pane:
+                enabled: false
