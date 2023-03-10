@@ -21,10 +21,10 @@ toggles:
            - "md"
            - "obs.html"
          exclude_files:
-          - ".gitignore"
-          - "favicon.ico"
-          - "not_created.html"
-          homepage_label: "homepage"
-        side_pane:
-            right_pane:
-                enabled: false
+           - ".gitignore"
+           - "favicon.ico"
+           - "not_created.html"
+         homepage_label: "homepage"
+         side_pane:
+           right_pane:
+              enabled: false
