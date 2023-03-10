@@ -26,13 +26,23 @@
               "type": "markdown",
               "state": {
                 "file": "Statements/Mag2 - Do Not Open.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "d72ddec2c83583a3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,19 +169,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc4525c007d4a5f4",
+  "active": "d72ddec2c83583a3",
   "lastOpenFiles": [
+    "Statements/Mag1 - Angler fish.md",
+    "Statements/Mag2 - Do Not Open.md",
     "homepage.md",
     "magnus-archives.md",
     "Statements/Statements.md",
-    "Statements/Mag2 - Do Not Open.md",
     "pdfs/MAG 002 - Do Not Open - Transcript Re-formatted.pdf",
     "pdfs/pdfs.md",
     "Places/the archives.md",
     "pdfs",
     "MAG 002 - Do Not Open - Transcript Re-formatted.pdf",
     "Statements/Mag3 - Across the Street.md",
-    "Statements/Mag1 - Angler fish.md",
     "John Fellowes.md",
     "Statements/Mag002.md",
     "Characters/Gertrude Robinson.md",
