@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statements/Mag2 - Do Not Open.md",
+                "file": "homepage.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statements/Mag2 - Do Not Open.md",
+                "file": "homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statements/Mag2 - Do Not Open.md",
+                "file": "homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statements/Mag2 - Do Not Open.md"
+                "file": "homepage.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "9f3f731e4cff3a2a",
   "lastOpenFiles": [
-    "Statements/Mag1 - Angler fish.md",
     "Statements/Mag2 - Do Not Open.md",
+    "Statements/Mag1 - Angler fish.md",
     "homepage.md",
     "magnus-archives.md",
     "Statements/Statements.md",

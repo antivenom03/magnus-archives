@@ -1,3 +1,6 @@
+---
+title: homepage
+---
 If you've found this then welcome.
 
 This is my attempt to keep track of the over-arching story of the magnus archives and draw connections between the individual statements.
