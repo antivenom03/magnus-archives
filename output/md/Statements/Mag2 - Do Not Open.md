@@ -9,7 +9,11 @@ tags: []
 >- Mentions of: Isolation, stress, human remains, suffocation, food   
 >- SFX: High-pitched tones   
    
-[Jonathan Sims](../Characters/Jonathan%20Sims.md):   
+>[!info]- Linked Pages   
+>[Jonathan Sims](../Characters/Jonathan%20Sims.md)   
+>[Joshua Galespi](/not_created.md)   
+   
+Jonathan Sims:   
 Statement of Joshua Gillespie, regarding his time in possession of an apparently empty wooden casket.    
    
 Original statement given November 22nd 1998.    
@@ -18,7 +22,7 @@ Audio recording by Jonathan Sims, Head Archivist of the Magnus Institute, London
    
 Statement begins.   
    
-[Joshua Galespi](/not_created.md), read by Jonathan Sims:   
+Joshua Galespi, read by Jonathan Sims:   
    
 It started when I was in Amsterdam for a holiday with a few of my friends. Everything you’re thinking right now, you’re right. We were all early twenties, just graduated and decided to spend a couple of weeks going crazy on the continent, so you can almost certainly fill in all the blanks yourself.   
    
