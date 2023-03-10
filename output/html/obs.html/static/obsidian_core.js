@@ -3,14 +3,14 @@
 // Globals (filled in by backend)
 var no_tab_mode = 1;
 var mermaid_enabled = 1;
-var toc_pane_div = "left_pane_content";
+var toc_pane_div = "";
 var dir_index_pane_div = "";
 var html_url_prefix = "/magnus-archives";
 var CONFIGURED_HTML_URL_PREFIX = "/magnus-archives";
 var RELATIVE_PATHS = 0;
 var documentation_mode = 1;
 var tab_mode = !no_tab_mode;
-var gzip_hash = '313914019315924396221137523662790509588'                       // used to check whether the localStorage data is stale
+var gzip_hash = '174476346436374025098513000201932066740'                       // used to check whether the localStorage data is stale
 
 // global cache
 var fn_cache_ls_available = null;
