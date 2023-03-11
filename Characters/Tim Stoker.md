@@ -1,1 +1,1 @@
-Assistant [[Jonathan Sims]]
+Assistant to [[Jonathan Sims]]

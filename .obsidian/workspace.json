@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Elias Bouchard.md",
+                "file": "Characters/Tim Stoker.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Elias Bouchard.md",
+                "file": "Characters/Tim Stoker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Elias Bouchard.md",
+                "file": "Characters/Tim Stoker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Elias Bouchard.md"
+                "file": "Characters/Tim Stoker.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "9f3f731e4cff3a2a",
   "lastOpenFiles": [
+    "Characters/Gertrude Robinson.md",
+    "Characters/Elias Bouchard.md",
     "Statements/Mag3 - Across the Street.md",
     "Statements/Mag2 - Do Not Open.md",
     "Statements/Mag4 - Page Turner.md",
@@ -158,7 +160,6 @@
     "Organizations/Organizations.md",
     "Places/Places.md",
     "magnus-archives.md",
-    "Characters/Gertrude Robinson.md",
     "Statements/Mag5 - Thrown Away.md",
     "Statements/Statements.md",
     "pdfs/MAG 002 - Do Not Open - Transcript Re-formatted.pdf",
@@ -168,7 +169,6 @@
     "MAG 002 - Do Not Open - Transcript Re-formatted.pdf",
     "John Fellowes.md",
     "Statements/Mag002.md",
-    "Characters/Elias Bouchard.md",
     "Statements/Mag001 - Angler fish.md",
     "Characters/Sasha James.md",
     "Organizations/the magnus institute.md"
