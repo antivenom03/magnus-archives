@@ -10,7 +10,7 @@ var CONFIGURED_HTML_URL_PREFIX = "/magnus-archives";
 var RELATIVE_PATHS = 0;
 var documentation_mode = 1;
 var tab_mode = !no_tab_mode;
-var gzip_hash = '118992370205709848227458550307012562671'                       // used to check whether the localStorage data is stale
+var gzip_hash = '309131048184386039907285895921930527565'                       // used to check whether the localStorage data is stale
 
 // global cache
 var fn_cache_ls_available = null;
@@ -165,7 +165,6 @@ function load_page() {
         for (let i = 0; i < links.length; i++) {
             let l = links[i];
             if (l.getAttribute("href").includes('#')) {
-
                 l.onclick = function () {
                     // remove current url from the link
                     let current_url = document.URL
@@ -258,11 +257,15 @@ function LoadTableOfContents(container_div)
                 let tpd = document.getElementById(toc_pane_div);
                 tpd.display = 'block';
                 tpd.innerHTML = '<span class="toc-header">Table of contents</span>' + '<div class="toc-contents">' + collection[0].innerHTML + '</div>';
+                toc.remove();
             }
             else {
                 toc.style.display = 'block';
                 toc.innerHTML = '<h3>Table of Contents</h1>\n' + toc.innerHTML
             }
+        }
+        else{
+            toc.remove();
         }
     }
 
@@ -527,8 +530,13 @@ function toggle_id(id){
     return toggle(document.getElementById(id))
 }
 function toggle(el){
-    return cl_toggle(el, 'active') 
+    return cl_toggle(el, 'active')
 }
 
+
+function toggle_callout(el){
+    cl_toggle(el, 'active')
+    cl_toggle(el, 'inactive')
+}
 
 

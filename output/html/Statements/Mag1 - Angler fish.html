@@ -147,19 +147,29 @@
     }
 </script>
                                     <div onclick="openSearch()" class="theme-button requires_js">
-                <img src = "/magnus-archives/obs.html/static/search.svg" alt="Search notes" title="Search notes" style="margin: 4px;"/>
+            <img src = "/magnus-archives/obs.html/static/search.svg" alt="Search notes" title="Search notes" style="margin: 4px;"/>
         </div>
         <script>
-                function openSearch(){
-                        // toggle search popup and continue with extra code if it is enabled this time
-                        if (toggle_id('search-master-div')){
-                                // clear input and put focus on it so that we can start typing immediately
-                                let ss = document.getElementById('search_string');
-                                ss.value = '';
-                                ss.focus()
-                                ss.select()
-                        }
+            function openSearch(){
+                // toggle search popup and continue with extra code if it is enabled this time
+                if (toggle_id('search-master-div')){
+                    // get input field and temporarily disable it
+                    let ss = document.getElementById('search_string');
+                    ss.value = 'Seach data initializing...';
+                    ss.readOnly = true; 
+
+                    // load search data if not yet done so
+                    setTimeout(function(){
+                        LoadSearchData()
+
+                        // clear input and put focus on it so that we can start typing immediately
+                        ss.value = '';
+                        ss.readOnly = false; 
+                        ss.focus()
+                        ss.select()
+                    }, 100);
                 }
+            }
         </script>
                                     <div class="graph_header_div requires_js">
             <a id="graph_link" class="system-link" href="/magnus-archives/obs.html/graph/index.html?node=mag1 - angler fish" title="Open fullpage Graph">
@@ -189,9 +199,9 @@
                 <div class="flex_row">
                         
                         <div class="container">
-                                <embeddedtitle>Mag1 - angler fish</embeddedtitle>
-<div class="content"><div class="callout callout-warning active callout-folded" rasa="1">
-<div class="callout-title" onclick="toggle(this.parentElement)">
+                                <embeddedtitle>Mag1 - Angler fish</embeddedtitle>
+<div class="content"><div class="callout callout-warning active callout-folded inactive" rasa="1">
+<div class="callout-title " onclick="toggle_callout(this.parentElement)">
 <div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="callout-icon"><path d="M10.29 3.86L1.82 18a2 2 0 001.71 3h16.94a2 2 0 001.71-3L13.71 3.86a2 2 0 00-3.42 0z"></path><line x1="12" y1="9" x2="12" y2="13"></line><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>
 </div>
 <div class="callout-title-name">Content Warnings <br />
@@ -201,19 +211,18 @@
 </div>
 <div class="callout-content">
 <ul>
-<li>Alcohol use &amp; drunkenness   </li>
-<li>Smoking   </li>
-<li>Human remains   </li>
-<li>Body horror   </li>
-<li>Discussions of: Abductions &amp; missing people   </li>
-<li>Mentions of: Death, emetophobia, injury, food, hallucinations   </li>
-<li>SFX: Brief static <br />
-</li>
+<li>Alcohol use &amp; drunkenness</li>
+<li>Smoking</li>
+<li>Human remains</li>
+<li>Body horror</li>
+<li>Discussions of: Abductions &amp; missing people</li>
+<li>Mentions of: Death, emetophobia, injury, food, hallucinations</li>
+<li>SFX: Brief static</li>
 </ul>
 </div>
 </div>
-<div class="callout callout-info active callout-folded" rasa="1">
-<div class="callout-title" onclick="toggle(this.parentElement)">
+<div class="callout callout-info active callout-folded inactive" rasa="1">
+<div class="callout-title " onclick="toggle_callout(this.parentElement)">
 <div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="callout-icon"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
 </div>
 <div class="callout-title-name">Linked Pages <br />
@@ -222,25 +231,24 @@
 </div>
 </div>
 <div class="callout-content">
-<p><a href="/magnus-archives/Characters/Jonathan%20Sims.html">Jonathan Sims</a> <br />
-<a href="/magnus-archives/Organizations/the%20magnus%20institute.html">the magnus institute</a> <br />
-<a href="/magnus-archives/Characters/Elias%20Bouchard.html">Elias Bouchard</a> <br />
-<a href="/magnus-archives/Characters/Gertrude%20Robinson.html">Gertrude Robinson</a> <br />
-<a href="/magnus-archives/Places/the%20archives.html">the archives</a> <br />
-<a href="/magnus-archives/Characters/Martin%20Blackwood.html">Martin Blackwood</a> <br />
-<a href="/magnus-archives/Characters/Tim%20Stoker.html">Tim Stoker</a> <br />
-<a href="/magnus-archives/Characters/Sasha%20James.html">Sasha James</a> <br />
-<a href="/magnus-archives/not_created.html" class="nonexistent-link">Nathan Watts</a> <br />
-<a href="/magnus-archives/not_created.html" class="nonexistent-link">Old Fishmarket Close, Edinburgh</a> <br />
-<a href="/magnus-archives/not_created.html" class="nonexistent-link">Michael MacAulay</a> <br />
-<a href="/magnus-archives/not_created.html" class="nonexistent-link">the Albanach</a> <br />
-<a href="/magnus-archives/not_created.html" class="nonexistent-link">John Fellowes</a> <br />
-<a href="/magnus-archives/not_created.html" class="nonexistent-link">Jessica McEwen</a> <br />
-<a href="/magnus-archives/not_created.html" class="nonexistent-link">Sarah Baldwin</a> <br />
-<a href="/magnus-archives/not_created.html" class="nonexistent-link">Daniel Rawlings</a> <br />
-<a href="/magnus-archives/not_created.html" class="nonexistent-link">Ashley Dobson</a> <br />
-<a href="/magnus-archives/not_created.html" class="nonexistent-link">Megan Shaw</a> <br />
-</p>
+<p><a href="/magnus-archives/Characters/Jonathan%20Sims.html">Jonathan Sims</a>
+<a href="/magnus-archives/Organizations/the%20magnus%20institute.html">the magnus institute</a>
+<a href="/magnus-archives/Characters/Elias%20Bouchard.html">Elias Bouchard</a>
+<a href="/magnus-archives/Characters/Gertrude%20Robinson.html">Gertrude Robinson</a>
+<a href="/magnus-archives/Places/the%20archives.html">the archives</a>
+<a href="/magnus-archives/Characters/Martin%20Blackwood.html">Martin Blackwood</a>
+<a href="/magnus-archives/Characters/Tim%20Stoker.html">Tim Stoker</a>
+<a href="/magnus-archives/Characters/Sasha%20James.html">Sasha James</a>
+<a href="/magnus-archives/not_created.html" class="nonexistent-link">Nathan Watts</a>
+<a href="/magnus-archives/not_created.html" class="nonexistent-link">Old Fishmarket Close, Edinburgh</a>
+<a href="/magnus-archives/not_created.html" class="nonexistent-link">Michael MacAulay</a>
+<a href="/magnus-archives/not_created.html" class="nonexistent-link">the Albanach</a>
+<a href="/magnus-archives/not_created.html" class="nonexistent-link">John Fellowes</a>
+<a href="/magnus-archives/not_created.html" class="nonexistent-link">Jessica McEwen</a>
+<a href="/magnus-archives/not_created.html" class="nonexistent-link">Sarah Baldwin</a>
+<a href="/magnus-archives/not_created.html" class="nonexistent-link">Daniel Rawlings</a>
+<a href="/magnus-archives/not_created.html" class="nonexistent-link">Ashley Dobson</a>
+<a href="/magnus-archives/not_created.html" class="nonexistent-link">Megan Shaw</a></p>
 </div>
 </div>
 <p>Jonathan Sims: <br />
@@ -306,8 +314,8 @@ Test… Test… Test… 1, 2, 3... Right.    </p>
 <p>It appears to be the same alleyway which Mr Watts described in his statement, the one that, according to the maps of the area, leads to Tron Square, but there doesn’t seem to be anyone in the photograph at all.    </p>
 <p>Sasha took the liberty of running it through some editing programs, though, and increasing the contrast appears to reveals the outline of a long, thin hand, roughly at what would be waist level on a male of average height. I find it oddly hard to shake off the impression that it’s beckoning.   </p>
 <p>End recording.   </p>
-<div class="callout callout-info active callout-folded" rasa="1">
-<div class="callout-title" onclick="toggle(this.parentElement)">
+<div class="callout callout-info active callout-folded inactive" rasa="1">
+<div class="callout-title " onclick="toggle_callout(this.parentElement)">
 <div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="callout-icon"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
 </div>
 <div class="callout-title-name">outro credits <br />
@@ -316,8 +324,7 @@ Test… Test… Test… 1, 2, 3... Right.    </p>
 </div>
 </div>
 <div class="callout-content">
-<p>The Magnus Archives is a podcast distributed by Rusty Quill and licensed under a creative commons attribution, non-commercial share alike 4.0 international license. Today's episode was written by Jonathan Sims and directed by Alexander J Newall. To subscribe, buy merchandise, or join our Patreon, visit rustyquill.com. Rate and review us online. Tweet us @therustyquill, visit us on Facebook, or email us at mail@rustyquill.com. Join us on Instagram at rustyquilluk or join our community via Reddit at r/rustyquill. Thanks for listening.
-</p>
+<p>The Magnus Archives is a podcast distributed by Rusty Quill and licensed under a creative commons attribution, non-commercial share alike 4.0 international license. Today's episode was written by Jonathan Sims and directed by Alexander J Newall. To subscribe, buy merchandise, or join our Patreon, visit rustyquill.com. Rate and review us online. Tweet us @therustyquill, visit us on Facebook, or email us at mail@rustyquill.com. Join us on Instagram at rustyquilluk or join our community via Reddit at r/rustyquill. Thanks for listening.</p>
 </div>
 </div></div>
 <div class="note-footer">
@@ -334,13 +341,13 @@ Test… Test… Test… 1, 2, 3... Right.    </p>
 
 </div>
 <div class="graph requires_js ">
-    <div id="A191247876118425381713263868372946817340{level}" class="graph_div"></div>
+    <div id="A277044420340579232989593300017125481255{level}" class="graph_div"></div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B191247876118425381713263868372946817340{level}" level="{level}" note_temp_id="191247876118425381713263868372946817340" onclick="window.ObsHtmlGraph.run(this, '191247876118425381713263868372946817340', 'mag1 - angler fish');">
+        <button class="graph_button graph_show_button" id="B277044420340579232989593300017125481255{level}" level="{level}" note_temp_id="277044420340579232989593300017125481255" onclick="window.ObsHtmlGraph.run(this, '277044420340579232989593300017125481255', 'mag1 - angler fish');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C191247876118425381713263868372946817340{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C277044420340579232989593300017125481255{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>

@@ -147,19 +147,29 @@
     }
 </script>
                                     <div onclick="openSearch()" class="theme-button requires_js">
-                <img src = "/magnus-archives/obs.html/static/search.svg" alt="Search notes" title="Search notes" style="margin: 4px;"/>
+            <img src = "/magnus-archives/obs.html/static/search.svg" alt="Search notes" title="Search notes" style="margin: 4px;"/>
         </div>
         <script>
-                function openSearch(){
-                        // toggle search popup and continue with extra code if it is enabled this time
-                        if (toggle_id('search-master-div')){
-                                // clear input and put focus on it so that we can start typing immediately
-                                let ss = document.getElementById('search_string');
-                                ss.value = '';
-                                ss.focus()
-                                ss.select()
-                        }
+            function openSearch(){
+                // toggle search popup and continue with extra code if it is enabled this time
+                if (toggle_id('search-master-div')){
+                    // get input field and temporarily disable it
+                    let ss = document.getElementById('search_string');
+                    ss.value = 'Seach data initializing...';
+                    ss.readOnly = true; 
+
+                    // load search data if not yet done so
+                    setTimeout(function(){
+                        LoadSearchData()
+
+                        // clear input and put focus on it so that we can start typing immediately
+                        ss.value = '';
+                        ss.readOnly = false; 
+                        ss.focus()
+                        ss.select()
+                    }, 100);
                 }
+            }
         </script>
                                     <div class="graph_header_div requires_js">
             <a id="graph_link" class="system-link" href="/magnus-archives/obs.html/graph/index.html?node=mag6 - squirm" title="Open fullpage Graph">
@@ -189,7 +199,7 @@
                 <div class="flex_row">
                         
                         <div class="container">
-                                <embeddedtitle>Mag6 - squirm</embeddedtitle>
+                                <embeddedtitle>Mag6 - Squirm</embeddedtitle>
 <div class="content"><p>statement of <a href="/magnus-archives/not_created.html" class="nonexistent-link">timothy hodge</a> given dec 9, 2014 regarding a sexual experience with and the death of <a href="/magnus-archives/not_created.html" class="nonexistent-link">harriet lee</a>   </p>
 <p>timothy is a designer who mostly stays at home   </p>
 <p>he claims to be sober for the experience in question   </p>
@@ -243,13 +253,13 @@
 
 </div>
 <div class="graph requires_js ">
-    <div id="A269198542020490761310270702594343339426{level}" class="graph_div"></div>
+    <div id="A290681801272526380944177359982972015618{level}" class="graph_div"></div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B269198542020490761310270702594343339426{level}" level="{level}" note_temp_id="269198542020490761310270702594343339426" onclick="window.ObsHtmlGraph.run(this, '269198542020490761310270702594343339426', 'mag6 - squirm');">
+        <button class="graph_button graph_show_button" id="B290681801272526380944177359982972015618{level}" level="{level}" note_temp_id="290681801272526380944177359982972015618" onclick="window.ObsHtmlGraph.run(this, '290681801272526380944177359982972015618', 'mag6 - squirm');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C269198542020490761310270702594343339426{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C290681801272526380944177359982972015618{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>

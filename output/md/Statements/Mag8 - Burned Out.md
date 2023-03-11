@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
    
 statement of [Ivo Lensik](/not_created.md) given March 13, 2007 regarding experiences while constructing a house on [Hilltop Rd., Oxford](/not_created.md)   

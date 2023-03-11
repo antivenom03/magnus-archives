@@ -147,19 +147,29 @@
     }
 </script>
                                     <div onclick="openSearch()" class="theme-button requires_js">
-                <img src = "/magnus-archives/obs.html/static/search.svg" alt="Search notes" title="Search notes" style="margin: 4px;"/>
+            <img src = "/magnus-archives/obs.html/static/search.svg" alt="Search notes" title="Search notes" style="margin: 4px;"/>
         </div>
         <script>
-                function openSearch(){
-                        // toggle search popup and continue with extra code if it is enabled this time
-                        if (toggle_id('search-master-div')){
-                                // clear input and put focus on it so that we can start typing immediately
-                                let ss = document.getElementById('search_string');
-                                ss.value = '';
-                                ss.focus()
-                                ss.select()
-                        }
+            function openSearch(){
+                // toggle search popup and continue with extra code if it is enabled this time
+                if (toggle_id('search-master-div')){
+                    // get input field and temporarily disable it
+                    let ss = document.getElementById('search_string');
+                    ss.value = 'Seach data initializing...';
+                    ss.readOnly = true; 
+
+                    // load search data if not yet done so
+                    setTimeout(function(){
+                        LoadSearchData()
+
+                        // clear input and put focus on it so that we can start typing immediately
+                        ss.value = '';
+                        ss.readOnly = false; 
+                        ss.focus()
+                        ss.select()
+                    }, 100);
                 }
+            }
         </script>
                                     <div class="graph_header_div requires_js">
             <a id="graph_link" class="system-link" href="/magnus-archives/obs.html/graph/index.html?node=mag2 - do not open" title="Open fullpage Graph">
@@ -189,9 +199,9 @@
                 <div class="flex_row">
                         
                         <div class="container">
-                                <embeddedtitle>Mag2 - do not open</embeddedtitle>
-<div class="content"><div class="callout callout-warning active callout-folded" rasa="1">
-<div class="callout-title" onclick="toggle(this.parentElement)">
+                                <embeddedtitle>Mag2 - Do Not Open</embeddedtitle>
+<div class="content"><div class="callout callout-warning active callout-folded inactive" rasa="1">
+<div class="callout-title " onclick="toggle_callout(this.parentElement)">
 <div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="callout-icon"><path d="M10.29 3.86L1.82 18a2 2 0 001.71 3h16.94a2 2 0 001.71-3L13.71 3.86a2 2 0 00-3.42 0z"></path><line x1="12" y1="9" x2="12" y2="13"></line><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>
 </div>
 <div class="callout-title-name">Content Warnings <br />
@@ -201,17 +211,16 @@
 </div>
 <div class="callout-content">
 <ul>
-<li>Haunting   </li>
-<li>Sleep disorders   </li>
-<li>Discussions of: Alcohol &amp; drug use, caskets   </li>
-<li>Mentions of: Isolation, stress, human remains, suffocation, food   </li>
-<li>SFX: High-pitched tones <br />
-</li>
+<li>Haunting</li>
+<li>Sleep disorders</li>
+<li>Discussions of: Alcohol &amp; drug use, caskets</li>
+<li>Mentions of: Isolation, stress, human remains, suffocation, food</li>
+<li>SFX: High-pitched tones</li>
 </ul>
 </div>
 </div>
-<div class="callout callout-info active callout-folded" rasa="1">
-<div class="callout-title" onclick="toggle(this.parentElement)">
+<div class="callout callout-info active callout-folded inactive" rasa="1">
+<div class="callout-title " onclick="toggle_callout(this.parentElement)">
 <div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="callout-icon"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
 </div>
 <div class="callout-title-name">Linked Pages <br />
@@ -220,9 +229,8 @@
 </div>
 </div>
 <div class="callout-content">
-<p><a href="/magnus-archives/Characters/Jonathan%20Sims.html">Jonathan Sims</a> <br />
-<a href="/magnus-archives/not_created.html" class="nonexistent-link">Joshua Galespi</a> <br />
-</p>
+<p><a href="/magnus-archives/Characters/Jonathan%20Sims.html">Jonathan Sims</a>
+<a href="/magnus-archives/not_created.html" class="nonexistent-link">Joshua Galespi</a></p>
 </div>
 </div>
 <p>Jonathan Sims: <br />
@@ -255,13 +263,13 @@ Statement of Joshua Gillespie, regarding his time in possession of an apparently
 
 </div>
 <div class="graph requires_js ">
-    <div id="A42824637785113852767529897447108131787{level}" class="graph_div"></div>
+    <div id="A314358336481560143769120700616875450090{level}" class="graph_div"></div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B42824637785113852767529897447108131787{level}" level="{level}" note_temp_id="42824637785113852767529897447108131787" onclick="window.ObsHtmlGraph.run(this, '42824637785113852767529897447108131787', 'mag2 - do not open');">
+        <button class="graph_button graph_show_button" id="B314358336481560143769120700616875450090{level}" level="{level}" note_temp_id="314358336481560143769120700616875450090" onclick="window.ObsHtmlGraph.run(this, '314358336481560143769120700616875450090', 'mag2 - do not open');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C42824637785113852767529897447108131787{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C314358336481560143769120700616875450090{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>

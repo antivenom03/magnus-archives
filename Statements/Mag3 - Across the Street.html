@@ -147,19 +147,29 @@
     }
 </script>
                                     <div onclick="openSearch()" class="theme-button requires_js">
-                <img src = "/magnus-archives/obs.html/static/search.svg" alt="Search notes" title="Search notes" style="margin: 4px;"/>
+            <img src = "/magnus-archives/obs.html/static/search.svg" alt="Search notes" title="Search notes" style="margin: 4px;"/>
         </div>
         <script>
-                function openSearch(){
-                        // toggle search popup and continue with extra code if it is enabled this time
-                        if (toggle_id('search-master-div')){
-                                // clear input and put focus on it so that we can start typing immediately
-                                let ss = document.getElementById('search_string');
-                                ss.value = '';
-                                ss.focus()
-                                ss.select()
-                        }
+            function openSearch(){
+                // toggle search popup and continue with extra code if it is enabled this time
+                if (toggle_id('search-master-div')){
+                    // get input field and temporarily disable it
+                    let ss = document.getElementById('search_string');
+                    ss.value = 'Seach data initializing...';
+                    ss.readOnly = true; 
+
+                    // load search data if not yet done so
+                    setTimeout(function(){
+                        LoadSearchData()
+
+                        // clear input and put focus on it so that we can start typing immediately
+                        ss.value = '';
+                        ss.readOnly = false; 
+                        ss.focus()
+                        ss.select()
+                    }, 100);
                 }
+            }
         </script>
                                     <div class="graph_header_div requires_js">
             <a id="graph_link" class="system-link" href="/magnus-archives/obs.html/graph/index.html?node=mag3 - across the street" title="Open fullpage Graph">
@@ -189,9 +199,9 @@
                 <div class="flex_row">
                         
                         <div class="container">
-                                <embeddedtitle>Mag3 - across the street</embeddedtitle>
-<div class="content"><div class="callout callout-warning active callout-folded" rasa="1">
-<div class="callout-title" onclick="toggle(this.parentElement)">
+                                <embeddedtitle>Mag3 - Across the Street</embeddedtitle>
+<div class="content"><div class="callout callout-warning active callout-folded inactive" rasa="1">
+<div class="callout-title " onclick="toggle_callout(this.parentElement)">
 <div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="callout-icon"><path d="M10.29 3.86L1.82 18a2 2 0 001.71 3h16.94a2 2 0 001.71-3L13.71 3.86a2 2 0 00-3.42 0z"></path><line x1="12" y1="9" x2="12" y2="13"></line><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>
 </div>
 <div class="callout-title-name">Content Warnings <br />
@@ -201,8 +211,8 @@
 </div>
 <div class="callout-content"></div>
 </div>
-<div class="callout callout-info active callout-folded" rasa="1">
-<div class="callout-title" onclick="toggle(this.parentElement)">
+<div class="callout callout-info active callout-folded inactive" rasa="1">
+<div class="callout-title " onclick="toggle_callout(this.parentElement)">
 <div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="callout-icon"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
 </div>
 <div class="callout-title-name">Linked Pages <br />
@@ -211,10 +221,9 @@
 </div>
 </div>
 <div class="callout-content">
-<p><a href="/magnus-archives/Characters/Jonathan%20Sims.html">Jonathan Sims</a> <br />
-<a href="/magnus-archives/not_created.html" class="nonexistent-link">Amy Pattel</a> <br />
-<a href="/magnus-archives/not_created.html" class="nonexistent-link">graham folger</a> <br />
-</p>
+<p><a href="/magnus-archives/Characters/Jonathan%20Sims.html">Jonathan Sims</a>
+<a href="/magnus-archives/not_created.html" class="nonexistent-link">Amy Pattel</a>
+<a href="/magnus-archives/not_created.html" class="nonexistent-link">graham folger</a></p>
 </div>
 </div>
 <p>statement of Amy Pattel regarding the dissapearance of graham folger given july 1, 2007   </p>
@@ -254,13 +263,13 @@
 
 </div>
 <div class="graph requires_js ">
-    <div id="A170457526265038873608515626374850133371{level}" class="graph_div"></div>
+    <div id="A325972221867694301592494894490943490616{level}" class="graph_div"></div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B170457526265038873608515626374850133371{level}" level="{level}" note_temp_id="170457526265038873608515626374850133371" onclick="window.ObsHtmlGraph.run(this, '170457526265038873608515626374850133371', 'mag3 - across the street');">
+        <button class="graph_button graph_show_button" id="B325972221867694301592494894490943490616{level}" level="{level}" note_temp_id="325972221867694301592494894490943490616" onclick="window.ObsHtmlGraph.run(this, '325972221867694301592494894490943490616', 'mag3 - across the street');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C170457526265038873608515626374850133371{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C325972221867694301592494894490943490616{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>

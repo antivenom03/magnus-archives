@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
    
 >[!warning]- Content Warnings   

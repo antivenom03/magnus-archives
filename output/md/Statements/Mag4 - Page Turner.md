@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
    
 statement of [Dominic Swain](/not_created.md) given june 28th, 2013 regarding a book briefly in his possession   

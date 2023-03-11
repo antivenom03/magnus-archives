@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
    
 statement of [Kieran Woodward](/not_created.md) given feb 23, 2009 regarding trash found at [93 Lancaster RD., Walthamstowe](/not_created.md)    

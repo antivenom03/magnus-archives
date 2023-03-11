@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
    
 statement of [Clarence Berry](/not_created.md) given Nov 6, 1922 regarding his time serving with [Willfred Owen](/not_created.md) in the Great War   

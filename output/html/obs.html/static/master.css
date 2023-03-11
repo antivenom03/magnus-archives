@@ -28,6 +28,10 @@
     scrollbar-width: thin;
 }
 
+code {
+    white-space: break-spaces;
+}
+
 body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     color: rgb(var(--normal-text-color));
@@ -99,8 +103,22 @@ blockquote p {
 }
 
 .container img {
-    max-width: 100%;
+    max-width: calc(100% - 0.4rem);
     padding: 0.2rem;
+}
+.container figure {
+    margin: 0;
+    padding: 2px;
+    width: fit-content;
+    background-color: var(--bg-accent);
+    border-radius: 2px;
+    text-align: center;
+}
+.container figure figcaption {
+    margin: -5px 0 0 0;
+    padding: 3px 5px;
+    text-align: center;
+    color: var(--color-accent3);
 }
 
 .container video {
@@ -304,8 +322,9 @@ td {
     padding-right: 1rem;
 }
 
-td:nth-child(n) {
+td:nth-child(2n) {
     border-left: 1px dotted rgb(var(--table-border-color-rgb), 0.3);
+    border-right: 1px dotted rgb(var(--table-border-color-rgb), 0.3);
 }
 
 td:first-child {
@@ -968,6 +987,7 @@ audio {
 
 
 /*  ----------------------------------------- /GLOBAL ------------------------------------------------ */
+
 
 /*  ----------------------------------------- GRAPHS ------------------------------------------------ */
 * {
@@ -1763,6 +1783,9 @@ span.linenos.special {
 .callout.active .callout-content {
     display: block
 }
+.callout.inactive .callout-content {
+    display: none;
+}
 .callout-title-fold {
     transform: rotate(270deg);
     width: 16px;
@@ -1781,6 +1804,14 @@ span.linenos.special {
     border-radius: 0.1rem 0 0 0.1rem;
     color: var(--callout-color);
 }
+
+.callout-content .callout {
+    margin: 1rem;
+}
+li .callout {
+    margin-top: 0.4rem;
+}
+
 .left_pane_content .callout {
     background-color: var(--bg-note);
 }

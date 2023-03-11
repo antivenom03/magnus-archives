@@ -147,19 +147,29 @@
     }
 </script>
                                     <div onclick="openSearch()" class="theme-button requires_js">
-                <img src = "/magnus-archives/obs.html/static/search.svg" alt="Search notes" title="Search notes" style="margin: 4px;"/>
+            <img src = "/magnus-archives/obs.html/static/search.svg" alt="Search notes" title="Search notes" style="margin: 4px;"/>
         </div>
         <script>
-                function openSearch(){
-                        // toggle search popup and continue with extra code if it is enabled this time
-                        if (toggle_id('search-master-div')){
-                                // clear input and put focus on it so that we can start typing immediately
-                                let ss = document.getElementById('search_string');
-                                ss.value = '';
-                                ss.focus()
-                                ss.select()
-                        }
+            function openSearch(){
+                // toggle search popup and continue with extra code if it is enabled this time
+                if (toggle_id('search-master-div')){
+                    // get input field and temporarily disable it
+                    let ss = document.getElementById('search_string');
+                    ss.value = 'Seach data initializing...';
+                    ss.readOnly = true; 
+
+                    // load search data if not yet done so
+                    setTimeout(function(){
+                        LoadSearchData()
+
+                        // clear input and put focus on it so that we can start typing immediately
+                        ss.value = '';
+                        ss.readOnly = false; 
+                        ss.focus()
+                        ss.select()
+                    }, 100);
                 }
+            }
         </script>
                                     <div class="graph_header_div requires_js">
             <a id="graph_link" class="system-link" href="/magnus-archives/obs.html/graph/index.html?node=the magnus institute" title="Open fullpage Graph">
@@ -189,7 +199,7 @@
                 <div class="flex_row">
                         
                         <div class="container">
-                                <embeddedtitle>The magnus institute</embeddedtitle>
+                                <embeddedtitle>the magnus institute</embeddedtitle>
 <div class="content"><p>Organization started in London in 1818 to track and research paranormal occurrences</p></div>
 <div class="note-footer">
 <div class="backlinks">
@@ -209,13 +219,13 @@
 
 </div>
 <div class="graph requires_js ">
-    <div id="A35718574154193586265121937145972220337{level}" class="graph_div"></div>
+    <div id="A33894851407043489515162600920355328849{level}" class="graph_div"></div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B35718574154193586265121937145972220337{level}" level="{level}" note_temp_id="35718574154193586265121937145972220337" onclick="window.ObsHtmlGraph.run(this, '35718574154193586265121937145972220337', 'the magnus institute');">
+        <button class="graph_button graph_show_button" id="B33894851407043489515162600920355328849{level}" level="{level}" note_temp_id="33894851407043489515162600920355328849" onclick="window.ObsHtmlGraph.run(this, '33894851407043489515162600920355328849', 'the magnus institute');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C35718574154193586265121937145972220337{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C33894851407043489515162600920355328849{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>
