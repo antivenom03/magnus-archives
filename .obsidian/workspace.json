@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Mary Key.md",
+                "file": "Characters/Jane Prentis.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Mary Key.md",
+                "file": "Characters/Jane Prentis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Mary Key.md",
+                "file": "Characters/Jane Prentis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Mary Key.md"
+                "file": "Characters/Jane Prentis.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "9f3f731e4cff3a2a",
   "lastOpenFiles": [
+    "Characters/Jonathan Sims.md",
+    "Characters/jorgen lightener.md",
+    "Characters/Mary Key.md",
     "Characters/Martin Blackwood.md",
     "Characters/Sasha James.md",
     "Characters/Tim Stoker.md",
