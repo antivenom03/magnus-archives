@@ -1,1 +1,1 @@
-a creature made of worms tracked by [[the magnus institute]]
+a creature tracked by [[the magnus institute]]
