@@ -8,9 +8,20 @@ navbar_links:
       link: Statements/Statements.html
 toggles: 
     process_all: true
-    features: 
+    features:
         styling:
-            layout: documentation
+            layout: minimal
+        graph:
+            enabled: true
+            templates:
+            - id: 2d
+              name: 2d
+              path: builtin<2d>
+            - id: 3d
+              name: 3d
+              path: builtin<3d>
+            styling:
+              show_icon: True
         tags_page: 
             enabled: false
         create_index_from_dir_structure:
