@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organizations/the magnus institute.md",
-                "mode": "preview",
+                "file": "Statements/Mag1 - Angler fish.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Organizations/the magnus institute.md",
+            "file": "Statements/Mag1 - Angler fish.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Organizations/the magnus institute.md",
+            "file": "Statements/Mag1 - Angler fish.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Organizations/the magnus institute.md"
+            "file": "Statements/Mag1 - Angler fish.md"
           }
         }
       }
@@ -133,6 +133,12 @@
   },
   "active": "c2d5b627cf721c7c",
   "lastOpenFiles": [
+    "Organizations/the magnus institute.md",
+    "template",
+    "template/template.md",
+    "/Statements/Mag3 - Across the Street.md",
+    "/template/template.md",
+    "/template",
     "Organizations/pinhole books.md",
     "Statements/Mag1 - Angler fish.md",
     "Statements/Mag8 - Burned Out.md",
@@ -145,7 +151,6 @@
     "Places/Places.md",
     "Organizations/Organizations.md",
     "/homepage.md",
-    "/Statements/Mag3 - Across the Street.md",
     "/Statements/Mag2 - Do Not Open.md",
     "/Characters/Tim Stoker.md",
     "/Characters/Mary Key.md",
@@ -156,9 +161,6 @@
     "Statements/Mag6 - Squirm.md",
     "Statements/Mag5 - Thrown Away.md",
     "Statements/Mag4 - Page Turner.md",
-    "Statements/Mag3 - Across the Street.md",
-    "Characters/Jonathan Sims.md",
-    "Statements/Mag01.md",
     "MAG 001 - Anglerfish - Transcript Re-formatted.pdf"
   ]
 }

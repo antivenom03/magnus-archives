@@ -8,14 +8,16 @@
 >- SFX: Brief static
 
 >[!info]- Linked Pages
+>Characters
 >[[Jonathan Sims]]
->[[the magnus institute]]
 >[[Elias Bouchard]]
 >[[Gertrude Robinson]]
->[[the archives]]
->[[Martin Blackwood]]
 >[[Tim Stoker]]
+>[[Martin Blackwood]]
 >[[Sasha James]]
+>Places
+>[[the magnus institute]]
+>[[the archives]]
 >[[Nathan Watts]]
 >[[Old Fishmarket Close, Edinburgh]]
 >[[Michael MacAulay]]
