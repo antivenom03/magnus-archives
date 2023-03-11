@@ -12,14 +12,16 @@
 >- SFX: Brief static   
    
 >[!info]- Linked Pages   
+>Characters   
 >[Jonathan Sims](../Characters/Jonathan%20Sims.md)   
->[the magnus institute](../Organizations/the%20magnus%20institute.md)   
 >[Elias Bouchard](../Characters/Elias%20Bouchard.md)   
 >[Gertrude Robinson](../Characters/Gertrude%20Robinson.md)   
->[the archives](../Places/the%20archives.md)   
->[Martin Blackwood](../Characters/Martin%20Blackwood.md)   
 >[Tim Stoker](../Characters/Tim%20Stoker.md)   
+>[Martin Blackwood](../Characters/Martin%20Blackwood.md)   
 >[Sasha James](../Characters/Sasha%20James.md)   
+>Places   
+>[the magnus institute](../Organizations/the%20magnus%20institute.md)   
+>[the archives](../Places/the%20archives.md)   
 >[Nathan Watts](/not_created.md)   
 >[Old Fishmarket Close, Edinburgh](/not_created.md)   
 >[Michael MacAulay](/not_created.md)   
