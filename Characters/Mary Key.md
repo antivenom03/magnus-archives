@@ -1,1 +1,1 @@
-Mother of [[Jared Key]]
+Mother of [[Jared Key]], owner of [[pinhole books]]
