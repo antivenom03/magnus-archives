@@ -2,6 +2,8 @@
 tags: []
 ---
    
+>[!warning]- Content Warnings   
+   
 >[!info]- Linked Pages   
 >[Jonathan Sims](../Characters/Jonathan%20Sims.md)   
 >[Amy Pattel](/not_created.md)   
