@@ -1,4 +1,5 @@
 ---
+graph_name: Home
 obs.html.tags: dont_add_embedded_title
 ---
 If you've found this then welcome.
