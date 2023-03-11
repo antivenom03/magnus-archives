@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homepage.md",
+                "file": "Statements/Mag1 - Angler fish.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "homepage.md",
+                "file": "Statements/Mag1 - Angler fish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "homepage.md",
+                "file": "Statements/Mag1 - Angler fish.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "homepage.md"
+                "file": "Statements/Mag1 - Angler fish.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "9f3f731e4cff3a2a",
   "lastOpenFiles": [
+    "homepage.md",
     "Characters/Characters.md",
     "Organizations/Organizations.md",
     "Places/Places.md",
@@ -157,7 +158,6 @@
     "Statements/Statements.md",
     "Statements/Mag1 - Angler fish.md",
     "Statements/Mag2 - Do Not Open.md",
-    "homepage.md",
     "Statements/Mag3 - Across the Street.md",
     "Statements/Mag8 - Burned Out.md",
     "pdfs/MAG 002 - Do Not Open - Transcript Re-formatted.pdf",
