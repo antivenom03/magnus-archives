@@ -5,8 +5,9 @@ tags: []
 >[!info]- Linked Pages   
 >[Jonathan Sims](../Characters/Jonathan%20Sims.md)   
 >[Amy Pattel](/not_created.md)   
+>[graham folger](/not_created.md)   
    
-statement of Amy Pattel regarding the dissapearance of [graham folger](/not_created.md) given july 1, 2007   
+statement of Amy Pattel regarding the dissapearance of graham folger given july 1, 2007   
    
 amy met graham in a class roughly two years ago in London   
    
