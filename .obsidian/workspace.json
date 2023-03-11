@@ -11,7 +11,7 @@
             "id": "9f3f731e4cff3a2a",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -138,12 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0949ff40cfcff41e",
+  "active": "9f3f731e4cff3a2a",
   "lastOpenFiles": [
+    "Characters/Characters.md",
     "Organizations/Organizations.md",
     "Places/Places.md",
     "magnus-archives.md",
-    "Characters/Characters.md",
     "Characters/Gertrude Robinson.md",
     "Statements/Mag5 - Thrown Away.md",
     "Statements/Statements.md",
