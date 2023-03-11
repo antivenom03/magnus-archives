@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Jane Prentis.md",
+                "file": "Statements/Statements.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Jane Prentis.md",
+                "file": "Statements/Statements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Jane Prentis.md",
+                "file": "Statements/Statements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Jane Prentis.md"
+                "file": "Statements/Statements.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "9f3f731e4cff3a2a",
   "lastOpenFiles": [
+    "Characters/Jane Prentis.md",
     "Characters/Jonathan Sims.md",
     "Characters/jorgen lightener.md",
     "Characters/Mary Key.md",
@@ -175,7 +176,6 @@
     "MAG 002 - Do Not Open - Transcript Re-formatted.pdf",
     "John Fellowes.md",
     "Statements/Mag002.md",
-    "Statements/Mag001 - Angler fish.md",
-    "Organizations/the magnus institute.md"
+    "Statements/Mag001 - Angler fish.md"
   ]
 }
