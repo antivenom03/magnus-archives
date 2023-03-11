@@ -1,7 +1,7 @@
 obsidian_entrypoint_path_str: magnus-archives/homepage.md   
 site_name: 'the magnus archives'
 html_url_prefix: '/magnus-archives'
-navbar_links: [
+navbar_links:
     - name: Home
       link: index.html
     - name: Statements
