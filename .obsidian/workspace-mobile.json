@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statements/Statements.md",
-                "mode": "source",
+                "file": "Organizations/the magnus institute.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Statements/Statements.md",
+            "file": "Organizations/the magnus institute.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Statements/Statements.md",
+            "file": "Organizations/the magnus institute.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Statements/Statements.md"
+            "file": "Organizations/the magnus institute.md"
           }
         }
       }
@@ -133,6 +133,12 @@
   },
   "active": "c2d5b627cf721c7c",
   "lastOpenFiles": [
+    "Organizations/pinhole books.md",
+    "Statements/Mag1 - Angler fish.md",
+    "Statements/Mag8 - Burned Out.md",
+    "Statements/Statements.md",
+    "homepage.md",
+    "/Statements/Statements.md",
     "magnus-archives.md",
     "Statements/Mag2 - Do Not Open.md",
     "Characters/Characters.md",
@@ -144,9 +150,6 @@
     "/Characters/Tim Stoker.md",
     "/Characters/Mary Key.md",
     "/Characters/Jane Prentis.md",
-    "Statements/Mag1 - Angler fish.md",
-    "Statements/Mag8 - Burned Out.md",
-    "homepage.md",
     "/magnus-archives.md",
     "/Statements/Mag1 - Angler fish.md",
     "Statements/Mag7 - The Piper.md",
@@ -156,9 +159,6 @@
     "Statements/Mag3 - Across the Street.md",
     "Characters/Jonathan Sims.md",
     "Statements/Mag01.md",
-    "Characters/Tim Stoker.md",
-    "Characters/Martin Blackwood.md",
-    "Characters/Sasha James.md",
     "MAG 001 - Anglerfish - Transcript Re-formatted.pdf"
   ]
 }
