@@ -21,17 +21,17 @@
 >[Sasha James](../Characters/Sasha%20James.md)   
 >[Nathan Watts](/not_created.md)   
 >[Michael MacAulay](/not_created.md)   
->Places   
->[the magnus institute](../Organizations/the%20magnus%20institute.md)   
->[the archives](../Places/the%20archives.md)   
->[Old Fishmarket Close, Edinburgh](/not_created.md)   
->[the Albanach](/not_created.md)   
 >[John Fellowes](/not_created.md)   
 >[Jessica McEwen](/not_created.md)   
 >[Sarah Baldwin](/not_created.md)   
 >[Daniel Rawlings](/not_created.md)   
 >[Ashley Dobson](/not_created.md)   
 >[Megan Shaw](/not_created.md)   
+>Places   
+>[the magnus institute](../Organizations/the%20magnus%20institute.md)   
+>[the archives](../Places/the%20archives.md)   
+>[Old Fishmarket Close, Edinburgh](/not_created.md)   
+>[the Albanach](/not_created.md)   
    
 ## recording begins   
    
