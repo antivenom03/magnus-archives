@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homepage.md",
+                "file": "Statements/Mag1 - Angler fish.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "homepage.md",
+                "file": "Statements/Mag1 - Angler fish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "homepage.md",
+                "file": "Statements/Mag1 - Angler fish.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "homepage.md"
+                "file": "Statements/Mag1 - Angler fish.md"
               }
             }
           }
@@ -150,10 +150,10 @@
   },
   "active": "d86d5af59f5fcc6e",
   "lastOpenFiles": [
+    "homepage.md",
     "Statements/Mag1 - Angler fish.md",
     "Statements/Mag3 - Across the Street.md",
     "template/template.md",
-    "homepage.md",
     "template",
     "Untitled.canvas",
     "Characters/jorgen lightener.md",
