@@ -17,17 +17,17 @@
 >[[Sasha James]]
 >[[Nathan Watts]]
 >[[Michael MacAulay]]
->Places
->[[the magnus institute]]
->[[the archives]]
->[[Old Fishmarket Close, Edinburgh]]
->[[the Albanach]]
 >[[John Fellowes]]
 >[[Jessica McEwen]]
 >[[Sarah Baldwin]]
 >[[Daniel Rawlings]]
 >[[Ashley Dobson]]
 >[[Megan Shaw]]
+>Places
+>[[the magnus institute]]
+>[[the archives]]
+>[[Old Fishmarket Close, Edinburgh]]
+>[[the Albanach]]
 
 ## recording begins
 
