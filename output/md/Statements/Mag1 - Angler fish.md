@@ -19,12 +19,12 @@
 >[Tim Stoker](../Characters/Tim%20Stoker.md)   
 >[Martin Blackwood](../Characters/Martin%20Blackwood.md)   
 >[Sasha James](../Characters/Sasha%20James.md)   
+>[Nathan Watts](/not_created.md)   
+>[Michael MacAulay](/not_created.md)   
 >Places   
 >[the magnus institute](../Organizations/the%20magnus%20institute.md)   
 >[the archives](../Places/the%20archives.md)   
->[Nathan Watts](/not_created.md)   
 >[Old Fishmarket Close, Edinburgh](/not_created.md)   
->[Michael MacAulay](/not_created.md)   
 >[the Albanach](/not_created.md)   
 >[John Fellowes](/not_created.md)   
 >[Jessica McEwen](/not_created.md)   
@@ -32,6 +32,8 @@
 >[Daniel Rawlings](/not_created.md)   
 >[Ashley Dobson](/not_created.md)   
 >[Megan Shaw](/not_created.md)   
+   
+## recording begins   
    
 Jonathan Sims:   
 Test… Test… Test… 1, 2, 3... Right.    
@@ -70,7 +72,7 @@ That’s probably enough time spent making my excuses for the state of this plac
    
 Statement of Nathan Watts, regarding an encounter on Old Fishmarket Close, Edinburgh. Original statement given April 22nd 2012. Audio recording by Jonathan Sims, Head Archivist of the Magnus Institute, London.   
    
-Statement begins.   
+## Statement begins.   
    
 Nathan Watts, read by Jonathan Sims:   
    
@@ -144,7 +146,7 @@ The other was just that, well, on the photo they’d used for his missing person
    
 I haven’t quit smoking, but I do find that I take a lot more taxis now if I find myself out too late.   
    
-_statement ends_   
+## _statement ends_   
    
 The investigation at the time, and the follow-up we’ve done over the last couple have days, have found no evidence to corroborate Mr. Watts’ account of his experience. I was initially inclined to re-file this statement in the ‘Discredited’ section of the Archives, a new category I’ve created that will, I suspect, be housing the majority of these files.   
    
@@ -156,7 +158,7 @@ It appears to be the same alleyway which Mr Watts described in his statement, th
    
 Sasha took the liberty of running it through some editing programs, though, and increasing the contrast appears to reveals the outline of a long, thin hand, roughly at what would be waist level on a male of average height. I find it oddly hard to shake off the impression that it’s beckoning.   
    
-End recording.   
+## End recording.   
    
 >[!info]- outro credits   
 >The Magnus Archives is a podcast distributed by Rusty Quill and licensed under a creative commons attribution, non-commercial share alike 4.0 international license. Today's episode was written by Jonathan Sims and directed by Alexander J Newall. To subscribe, buy merchandise, or join our Patreon, visit rustyquill.com. Rate and review us online. Tweet us @therustyquill, visit us on Facebook, or email us at mail@rustyquill.com. Join us on Instagram at rustyquilluk or join our community via Reddit at r/rustyquill. Thanks for listening.

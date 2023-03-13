@@ -89,7 +89,7 @@ blockquote p {
     padding: 2rem;
     scrollbar-color: rgba(var(--code-hightlight-color), 0.4) #0000;
     scroll-margin-top: 2rem;
-    max-width: 80rem;
+    max-width: 60rem;
     flex: auto;
     font-size: 11pt;
 }
@@ -524,7 +524,7 @@ a.navbar-link:hover {
 }
 
 .tags-pane-content {
-    margin: 1rem;
+    margin: 0rem;
     max-width: 20vw;
 }
 .tags-pane-content h2 {
@@ -722,9 +722,8 @@ li {
 }
 
 .dir-container {
-    padding-left: 1rem;
     display: none;
-    padding-left: 1.5rem;
+    padding-left: 0.8rem;
 }
 
 .dir-container.active {
@@ -1644,7 +1643,7 @@ span.linenos.special {
     #search-results-box {
         height: 0rem;
         margin-top: 1rem;
-        max-width: 80rem;
+        max-width: 60rem;
     }
     #search-results {
         height: calc(100% - 1rem);
