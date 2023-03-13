@@ -9,12 +9,13 @@
 
 >[!info]- Linked Pages
 >Characters
->[[Jonathan Sims]]
->[[Elias Bouchard]]
->[[Gertrude Robinson]]
->[[Tim Stoker]]
->[[Martin Blackwood]]
->[[Sasha James]]
+>
+>- [[Jonathan Sims]]
+>- [[Elias Bouchard]]
+>- [[Gertrude Robinson]]
+>- [[Tim Stoker]]
+>- [[Martin Blackwood]]
+>- [[Sasha James]]
 >[[Nathan Watts]]
 >[[Michael MacAulay]]
 >[[John Fellowes]]

@@ -9,6 +9,7 @@
 >[[Jonathan Sims]]
 >[[Joshua Galespi]]
 
+## begin recording
 Jonathan Sims:
 Statement of Joshua Gillespie, regarding his time in possession of an apparently empty wooden casket. 
 
