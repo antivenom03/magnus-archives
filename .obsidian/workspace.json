@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statements/Mag2 - Do Not Open.md",
+                "file": "Statements/Mag3 - Across the Street.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statements/Mag2 - Do Not Open.md",
+                "file": "Statements/Mag3 - Across the Street.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statements/Mag2 - Do Not Open.md",
+                "file": "Statements/Mag3 - Across the Street.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statements/Mag2 - Do Not Open.md"
+                "file": "Statements/Mag3 - Across the Street.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "d86d5af59f5fcc6e",
   "lastOpenFiles": [
-    "Statements/Mag1 - Angler fish.md",
+    "Statements/Mag4 - Page Turner.md",
     "Statements/Mag2 - Do Not Open.md",
+    "Statements/Mag3 - Across the Street.md",
+    "Statements/Mag1 - Angler fish.md",
     "template/template.md",
     "homepage.md",
-    "Statements/Mag3 - Across the Street.md",
     "template",
     "Untitled.canvas",
     "Characters/jorgen lightener.md",
@@ -166,7 +167,6 @@
     "Characters/Sasha James.md",
     "Characters/Tim Stoker.md",
     "Characters/Gertrude Robinson.md",
-    "Statements/Mag4 - Page Turner.md",
     "Statements/Mag8 - Burned Out.md",
     "Characters/Characters.md",
     "Organizations/Organizations.md",
