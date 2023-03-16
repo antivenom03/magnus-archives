@@ -16,19 +16,21 @@
 >- [[Tim Stoker]]
 >- [[Martin Blackwood]]
 >- [[Sasha James]]
->[[Nathan Watts]]
->[[Michael MacAulay]]
->[[John Fellowes]]
->[[Jessica McEwen]]
->[[Sarah Baldwin]]
->[[Daniel Rawlings]]
->[[Ashley Dobson]]
->[[Megan Shaw]]
+>- [[Nathan Watts]]
+>- [[Michael MacAulay]]
+>- [[John Fellowes]]
+>- [[Jessica McEwen]]
+>- [[Sarah Baldwin]]
+>- [[Daniel Rawlings]]
+>- [[Ashley Dobson]]
+>- [[Megan Shaw]]
+>
 >Places
->[[the magnus institute]]
->[[the archives]]
->[[Old Fishmarket Close, Edinburgh]]
->[[the Albanach]]
+>
+>- [[the magnus institute]]
+>- [[the archives]]
+>- [[Old Fishmarket Close, Edinburgh]]
+>- [[the Albanach]]
 
 ## recording begins
 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statements/Mag1 - Angler fish.md",
+                "file": "Statements/Mag2 - Do Not Open.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statements/Mag1 - Angler fish.md",
+                "file": "Statements/Mag2 - Do Not Open.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statements/Mag1 - Angler fish.md",
+                "file": "Statements/Mag2 - Do Not Open.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statements/Mag1 - Angler fish.md"
+                "file": "Statements/Mag2 - Do Not Open.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "d86d5af59f5fcc6e",
   "lastOpenFiles": [
-    "homepage.md",
     "Statements/Mag1 - Angler fish.md",
+    "Statements/Mag2 - Do Not Open.md",
+    "homepage.md",
     "Statements/Mag3 - Across the Street.md",
     "template/template.md",
     "template",
@@ -165,7 +166,6 @@
     "Characters/Sasha James.md",
     "Characters/Tim Stoker.md",
     "Characters/Gertrude Robinson.md",
-    "Statements/Mag2 - Do Not Open.md",
     "Statements/Mag4 - Page Turner.md",
     "Statements/Mag8 - Burned Out.md",
     "Characters/Characters.md",
