@@ -9,4 +9,5 @@
  [Mag5 - Thrown Away](../Statements/Mag5%20-%20Thrown%20Away.md)   
  [Mag6 - Squirm](../Statements/Mag6%20-%20Squirm.md)   
  [Mag7 - The Piper](../Statements/Mag7%20-%20The%20Piper.md)   
- [Mag8 - Burned Out](../Statements/Mag8%20-%20Burned%20Out.md)
+ [Mag8 - Burned Out](../Statements/Mag8%20-%20Burned%20Out.md)   
+ [Mag28 - skintight](../Statements/Mag28%20-%20skintight.md)
