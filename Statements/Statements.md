@@ -6,3 +6,4 @@
  [[Mag6 - Squirm]]
  [[Mag7 - The Piper]]
  [[Mag8 - Burned Out]]
+ [[Mag28 - skintight]]
