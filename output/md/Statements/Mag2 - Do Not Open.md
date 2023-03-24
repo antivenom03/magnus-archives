@@ -9,16 +9,15 @@
 >- Mentions of: Isolation, stress, human remains, suffocation, food   
 >- SFX: High-pitched tones   
    
->[!info]- Linked Pages   
->People   
+>[!info]- Episode Info   
+>Recording by [Jonathan Sims](../Characters/Jonathan%20Sims.md)   
+>Statement of [Joshua Galespi](/not_created.md)   
+>Characters   
 >   
->- [Jonathan Sims](../Characters/Jonathan%20Sims.md)   
->- [Joshua Galespi](/not_created.md)   
 >- [John](../Characters/John.md)   
 >   
 >Places   
 >   
->- [the magnus institute](../Organizations/the%20magnus%20institute.md)   
 >- [Amsterdam](/not_created.md)   
 >- [Elandsstraat](/not_created.md)   
 >- [Liverpool](/not_created.md)   

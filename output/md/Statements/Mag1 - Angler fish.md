@@ -11,7 +11,7 @@
 >- Mentions of: Death, emetophobia, injury, food, hallucinations   
 >- SFX: Brief static   
    
->[!info]- Linked Pages   
+>[!info]- Episode Info   
 >Recording by [Jonathan Sims](../Characters/Jonathan%20Sims.md)   
 >Statement of [Nathan Watts](/not_created.md)   
 >   
