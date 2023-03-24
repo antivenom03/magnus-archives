@@ -7,7 +7,7 @@
 >- Mentions of: Death, emetophobia, injury, food, hallucinations
 >- SFX: Brief static
 
->[!info]- Linked Pages
+>[!info]- Episode Info
 >Recording by [[Jonathan Sims]]
 >Statement of [[Nathan Watts]]
 >

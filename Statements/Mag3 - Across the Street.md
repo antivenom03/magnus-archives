@@ -7,7 +7,7 @@
 >- Mentions of: Loss of consciousness, parental death
 >- SFX: High pitched tone
 
->[!info]- Linked Pages
+>[!info]- Episode Info
 >People
 >
 >- [[Jonathan Sims]]
