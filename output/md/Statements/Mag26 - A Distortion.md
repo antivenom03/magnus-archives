@@ -32,4 +32,4 @@
    
 ## Next Episode   
    
-- [Mag23 - Schwartzwald](../Statements/Mag23%20-%20Schwartzwald.md)
+- [Mag27 - A Sturdy Lock](../Statements/Mag27%20-%20A%20Sturdy%20Lock.md)

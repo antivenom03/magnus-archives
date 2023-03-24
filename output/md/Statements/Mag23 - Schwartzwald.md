@@ -32,4 +32,4 @@
    
 ## Next Episode   
    
-- [Mag23 - Schwartzwald](../Statements/Mag23%20-%20Schwartzwald.md)
+- [Mag24 - Strange Music](../Statements/Mag24%20-%20Strange%20Music.md)

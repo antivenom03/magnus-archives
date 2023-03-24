@@ -32,4 +32,4 @@
    
 ## Next Episode   
    
-- [Mag23 - Schwartzwald](../Statements/Mag23%20-%20Schwartzwald.md)
+- [Mag28 - skintight](../Statements/Mag28%20-%20skintight.md)

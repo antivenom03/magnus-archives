@@ -32,4 +32,4 @@
    
 ## Next Episode   
    
-- [Mag23 - Schwartzwald](../Statements/Mag23%20-%20Schwartzwald.md)
+- [Mag26 - A Distortion](../Statements/Mag26%20-%20A%20Distortion.md)

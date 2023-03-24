@@ -32,4 +32,4 @@
    
 ## Next Episode   
    
-- [Mag23 - Schwartzwald](../Statements/Mag23%20-%20Schwartzwald.md)
+- [Mag25 - Growing Dark](../Statements/Mag25%20-%20Growing%20Dark.md)
