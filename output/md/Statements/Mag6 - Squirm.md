@@ -2,80 +2,34 @@
 {}
 ---
    
-statement of [timothy hodge](/not_created.md) given dec 9, 2014 regarding a sexual experience with and the death of [harriet lee](/not_created.md)   
+>[!warning]- Content Warnings   
+>-    
+>-    
+>-    
+>-    
+>-    
+>-    
+>-    
    
-timothy is a designer who mostly stays at home   
+>[!info]- Linked Pages   
+>-    
+>-    
+>-    
+>-    
+>-    
+>-   
    
-he claims to be sober for the experience in question   
+## Recording Begins   
    
-he goes clubbing in [brixton](/not_created.md)   
+## Statement Begins   
    
-he sees an attractive woman who seems nervous   
+## Statement Ends   
    
-she moved to him and they danced   
+## End Recording   
    
-she didn't drink, she invited him to spend the night   
+>[!info]- outro credits   
+>The Magnus Archives is a podcast distributed by Rusty Quill and licensed under a creative commons attribution, non-commercial share alike 4.0 international license. Today's episode was written by Jonathan Sims and directed by Alexander J Newall. To subscribe, buy merchandise, or join our Patreon, visit rustyquill.com. Rate and review us online. Tweet us @therustyquill, visit us on Facebook, or email us at mail@rustyquill.com. Join us on Instagram at rustyquilluk or join our community via Reddit at r/rustyquill. Thanks for listening.   
    
-she introduces herself, and they go to timothy's home   
+## Next Episode   
    
-she help him, and seemed even more nervous   
-   
-she began scratching her arms, leaving wounds   
-   
-she relaxed as they got inside   
-   
-she continued to ask for only water   
-   
-she was a student   
-   
-it was clear somthing was wrong   
-   
-she said she was mugged, but seemed confused   
-   
-she lived on [elthorn rd.](/not_created.md)   
-   
-she saw a woman in a strange, shifting dress facedown on the pavement   
-   
-as she approached the dress stopped moving   
-   
-the woman lunged at her and growled   
-   
-she was stabbed   
-   
-she woke without a trace of stab wound   
-   
-she continued to see the woman everywhere and it made her anxious and itchy   
-   
-she got sick approaching the police and could not   
-   
-the hospital said nothing was wrong   
-   
-she stayed near large groups of peaople for safety   
-   
-after telling the story, harriet was visibly upset   
-   
-she kisses timothy unexpectedly   
-   
-she insisted on having sex   
-   
-after, something began moving and squirming under her skin   
-   
-she suddenly doubled over in pain   
-   
-timothy panics and decides to call an ambulance   
-   
-before he could, he heard a wet crack, and harriet became quiet   
-   
-he stops at the threshold of the door and looked into the dark room   
-   
-he sets his apartment on fire   
-   
-he says the room was covered in a dark goo and worms carpeted every surface   
-   
-there was no sign of arson or human remains in the fire   
-   
-harriet had been reported missing   
-   
-it appears like harriet had an encounter with [Jane Prentis](../Characters/Jane%20Prentis.md)   
-   
-timothy could not be found for a followup
+- [Mag7 - The Piper](../Statements/Mag7%20-%20The%20Piper.md)
