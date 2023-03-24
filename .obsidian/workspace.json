@@ -11,8 +11,12 @@
             "id": "9f3f731e4cff3a2a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Statements/Mag1 - Angler fish.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Statements/Mag1 - Angler fish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Statements/Mag1 - Angler fish.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Statements/Mag1 - Angler fish.md"
+              }
             }
           }
         ]
@@ -127,6 +135,8 @@
   },
   "active": "9f3f731e4cff3a2a",
   "lastOpenFiles": [
+    "template/template.md",
+    "Statements/Mag1 - Angler fish.md",
     "Statements/Statements.md",
     "Statements/Mag27 - A Sturdy Lock.md",
     "Statements/Mag26 - A Distortion.md",
@@ -150,9 +160,7 @@
     "Statements/Mag8 - Burned Out.md",
     "Statements/Mag7 - The Piper.md",
     "Statements/Mag6 - Squirm.md",
-    "template/template.md",
     "Statements/Mag5 - Thrown Away.md",
-    "Statements/Mag4 - Page Turner.md",
     "template",
     "Untitled.canvas",
     "pdfs/MAG 002 - Do Not Open - Transcript Re-formatted.pdf",
