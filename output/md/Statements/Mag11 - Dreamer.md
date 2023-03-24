@@ -32,4 +32,4 @@
    
 ## Next Episode   
    
-- [Mag9 - A Father's Love](../Statements/Mag9%20-%20A%20Father%27s%20Love.md)
+- [Mag12 - First Aid](../Statements/Mag12%20-%20First%20Aid.md)

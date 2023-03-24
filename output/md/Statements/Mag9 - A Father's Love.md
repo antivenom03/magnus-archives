@@ -32,4 +32,4 @@
    
 ## Next Episode   
    
-- [Mag9 - A Father's Love](../Statements/Mag9%20-%20A%20Father%27s%20Love.md)
+- [Mag10 - Vampire Killer](../Statements/Mag10%20-%20Vampire%20Killer.md)

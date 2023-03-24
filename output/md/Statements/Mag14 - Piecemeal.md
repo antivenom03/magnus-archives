@@ -32,4 +32,4 @@
    
 ## Next Episode   
    
-- [Mag9 - A Father's Love](../Statements/Mag9%20-%20A%20Father%27s%20Love.md)
+- [Mag15 - Lost John's Cave](../Statements/Mag15%20-%20Lost%20John%27s%20Cave.md)

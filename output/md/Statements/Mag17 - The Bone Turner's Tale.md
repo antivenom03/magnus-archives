@@ -32,4 +32,4 @@
    
 ## Next Episode   
    
-- [Mag9 - A Father's Love](../Statements/Mag9%20-%20A%20Father%27s%20Love.md)
+- [Mag18 - The Man Upstairs](../Statements/Mag18%20-%20The%20Man%20Upstairs.md)

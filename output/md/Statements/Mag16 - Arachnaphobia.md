@@ -32,4 +32,4 @@
    
 ## Next Episode   
    
-- [Mag9 - A Father's Love](../Statements/Mag9%20-%20A%20Father%27s%20Love.md)
+- [Mag17 - The Bone Turner's Tale](../Statements/Mag17%20-%20The%20Bone%20Turner%27s%20Tale.md)

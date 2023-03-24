@@ -32,4 +32,4 @@
    
 ## Next Episode   
    
-- [Mag9 - A Father's Love](../Statements/Mag9%20-%20A%20Father%27s%20Love.md)
+- [Mag16 - Arachnaphobia](../Statements/Mag16%20-%20Arachnaphobia.md)
