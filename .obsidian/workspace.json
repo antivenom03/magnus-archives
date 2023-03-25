@@ -130,30 +130,40 @@
                 "file": "Timeline.md"
               }
             }
+          },
+          {
+            "id": "ce0abb7b681d988c",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "fe73627df3da6b11",
   "lastOpenFiles": [
-    "Statements/Mag3 - Across the Street.md",
+    "Organizations/the magnus institute.md",
+    "Statements/Mag1 - Angler fish.md",
     "Timeline.md",
+    "Statements/Mag3 - Across the Street.md",
     "Untitled",
     "template/template.md",
     "Statements/Mag2 - Do Not Open.md",
-    "Statements/Mag1 - Angler fish.md",
     "Statements/Statements.md",
     "Statements/Mag27 - A Sturdy Lock.md",
     "Statements/Mag26 - A Distortion.md",
@@ -174,7 +184,6 @@
     "Statements/Mag11 - Dreamer.md",
     "Statements/Mag10 - Vampire Killer.md",
     "Statements/Mag9 - A Father's Love.md",
-    "Statements/Mag8 - Burned Out.md",
     "template",
     "Untitled.canvas",
     "pdfs/MAG 002 - Do Not Open - Transcript Re-formatted.pdf",
