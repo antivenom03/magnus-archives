@@ -201,19 +201,9 @@
                         <div class="container">
                                 <embeddedtitle>Timeline</embeddedtitle>
 <div class="content"><div class="mermaid">
-stateDiagram-v2
-[*] --> 1818
-note left of 1818
-Magnus Institute is founded
-end note
-1818 --> Still
-Still --> [*]
-
-Still --> Moving
-Moving --> Still
-Moving --> Crash
-Crash --> [*]
-
+flowchart TD
+1818 --- Institute
+1818 --> Stop
 </div>
 
 <script>
@@ -236,13 +226,13 @@ Crash --> [*]
 
 </div>
 <div class="graph requires_js ">
-    <div id="A290549309587024708660888746338474099941{level}" class="graph_div"></div>
+    <div id="A17021649296106218512831988006342887890{level}" class="graph_div"></div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B290549309587024708660888746338474099941{level}" level="{level}" note_temp_id="290549309587024708660888746338474099941" onclick="window.ObsHtmlGraph.run(this, '290549309587024708660888746338474099941', 'timeline');">
+        <button class="graph_button graph_show_button" id="B17021649296106218512831988006342887890{level}" level="{level}" note_temp_id="17021649296106218512831988006342887890" onclick="window.ObsHtmlGraph.run(this, '17021649296106218512831988006342887890', 'timeline');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C290549309587024708660888746338474099941{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C17021649296106218512831988006342887890{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>
