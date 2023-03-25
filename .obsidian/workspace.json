@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "fe73627df3da6b11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statements/Mag3 - Across the Street.md",
+                "file": "Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statements/Mag3 - Across the Street.md",
+                "file": "Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statements/Mag3 - Across the Street.md"
+                "file": "Timeline.md"
               }
             }
           }
@@ -133,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f3f731e4cff3a2a",
+  "active": "fe73627df3da6b11",
   "lastOpenFiles": [
+    "Statements/Mag3 - Across the Street.md",
+    "Timeline.md",
+    "Untitled",
     "template/template.md",
     "Statements/Mag2 - Do Not Open.md",
     "Statements/Mag1 - Angler fish.md",
@@ -159,8 +175,6 @@
     "Statements/Mag10 - Vampire Killer.md",
     "Statements/Mag9 - A Father's Love.md",
     "Statements/Mag8 - Burned Out.md",
-    "Statements/Mag7 - The Piper.md",
-    "Statements/Mag6 - Squirm.md",
     "template",
     "Untitled.canvas",
     "pdfs/MAG 002 - Do Not Open - Transcript Re-formatted.pdf",
