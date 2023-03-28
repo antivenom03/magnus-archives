@@ -35,6 +35,10 @@
 >- [[Old Fishmarket Close, Edinburgh]]
 >- [[the Albanach]]
 
+>[!info]- Audio Recording
+>
+><iframe width="1280" height="720" src="https://www.youtube.com/embed/AdiUHYacaRI?list=PLSbuB1AyaJk8zTF3nE2KRxuixG_A5gBKJ" title="THE MAGNUS ARCHIVES #1 - Anglerfish - Horror Fiction Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Recording Begins
 
 Jonathan Sims:

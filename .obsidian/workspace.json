@@ -11,8 +11,12 @@
             "id": "f5660b88b26da4e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Statements/Mag1 - Angler fish.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Statements/Mag1 - Angler fish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Statements/Mag1 - Angler fish.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Statements/Mag1 - Angler fish.md"
+              }
             }
           }
         ],
@@ -137,11 +145,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4bd729c3c12aebfa",
+  "active": "f5660b88b26da4e6",
   "lastOpenFiles": [
+    "timeline.md",
     "Untitled Diagram.svg",
     "Statements/Mag1 - Angler fish.md",
-    "timeline.md",
     "Statements/Mag3 - Across the Street.md",
     "Organizations/the magnus institute.md",
     "Timeline.md",
