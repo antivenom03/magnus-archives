@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "035bd5c04ae16998",
+        "id": "0ba6823f5644669c",
         "type": "tabs",
         "children": [
           {
-            "id": "9f3f731e4cff3a2a",
+            "id": "f5660b88b26da4e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statements/Mag3 - Across the Street.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ad5493b8cff0d8b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "timeline.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +71,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -108,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Diagram.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Diagram.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled Diagram.svg"
-              }
+              "state": {}
             }
           }
         ],
@@ -157,13 +137,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0949ff40cfcff41e",
+  "active": "4bd729c3c12aebfa",
   "lastOpenFiles": [
-    "timeline.md",
     "Untitled Diagram.svg",
+    "Statements/Mag1 - Angler fish.md",
+    "timeline.md",
     "Statements/Mag3 - Across the Street.md",
     "Organizations/the magnus institute.md",
-    "Statements/Mag1 - Angler fish.md",
     "Timeline.md",
     "Untitled",
     "template/template.md",
