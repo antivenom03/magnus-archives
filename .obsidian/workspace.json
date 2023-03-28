@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "ad5493b8cff0d8b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "timeline.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -36,9 +49,9 @@
             "id": "0949ff40cfcff41e",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "diagram-edit",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "Untitled Diagram.svg"
               }
             }
           },
@@ -64,6 +77,16 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "4bd729c3c12aebfa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ]
       }
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statements/Mag3 - Across the Street.md",
+                "file": "Untitled Diagram.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statements/Mag3 - Across the Street.md",
+                "file": "Untitled Diagram.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statements/Mag3 - Across the Street.md"
+                "file": "Untitled Diagram.svg"
               }
             }
           }
@@ -136,10 +159,12 @@
   },
   "active": "0949ff40cfcff41e",
   "lastOpenFiles": [
+    "timeline.md",
+    "Untitled Diagram.svg",
+    "Statements/Mag3 - Across the Street.md",
     "Organizations/the magnus institute.md",
     "Statements/Mag1 - Angler fish.md",
     "Timeline.md",
-    "Statements/Mag3 - Across the Street.md",
     "Untitled",
     "template/template.md",
     "Statements/Mag2 - Do Not Open.md",
@@ -161,8 +186,6 @@
     "Statements/Mag13 - Alone.md",
     "Statements/Mag12 - First Aid.md",
     "Statements/Mag11 - Dreamer.md",
-    "Statements/Mag10 - Vampire Killer.md",
-    "Statements/Mag9 - A Father's Love.md",
     "template",
     "Untitled.canvas",
     "pdfs/MAG 002 - Do Not Open - Transcript Re-formatted.pdf",
