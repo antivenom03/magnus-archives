@@ -8,6 +8,8 @@
 >[!info]- Episode Info
 >Recording by [[Jonathan Sims]]
 >Statement of [[Joshua Galespi]]
+>Statement given on 11/22/1998
+>
 >Characters
 >
 >- [[John]]
@@ -19,6 +21,12 @@
 >- [[Liverpool]]
 >- [[Bournemouth]]
 >- [[the Triangle]]
+>
+>Organizations
+>- [[Breekon and Hope Deliveries]]
+
+>[!info]- Audio Recording
+><iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2eRmdP9mAEbgzVxyzF8aK6?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Recording Begins
 

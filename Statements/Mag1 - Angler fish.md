@@ -10,8 +10,7 @@
 >[!info]- Episode Info
 >Recording by [[Jonathan Sims]]
 >Statement of [[Nathan Watts]]
->Recorded on
->Statement given on
+>Statement given on 4/22/12
 >
 >Characters
 >
