@@ -11,12 +11,8 @@
             "id": "f5660b88b26da4e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statements/Mag3 - Across the Street.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -96,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statements/Mag3 - Across the Street.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statements/Mag3 - Across the Street.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Statements/Mag3 - Across the Street.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,8 +139,8 @@
   },
   "active": "f5660b88b26da4e6",
   "lastOpenFiles": [
-    "Statements/Mag2 - Do Not Open.md",
     "Statements/Mag3 - Across the Street.md",
+    "Statements/Mag2 - Do Not Open.md",
     "Statements/Mag4 - Page Turner.md",
     "Statements/Mag1 - Angler fish.md",
     "timeline.md",
