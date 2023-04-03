@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statements/Mag2 - Do Not Open.md",
-                "mode": "preview",
+                "file": "Statements/Mag3 - Across the Street.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statements/Mag2 - Do Not Open.md",
+                "file": "Statements/Mag3 - Across the Street.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statements/Mag2 - Do Not Open.md",
+                "file": "Statements/Mag3 - Across the Street.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statements/Mag2 - Do Not Open.md"
+                "file": "Statements/Mag3 - Across the Street.md"
               }
             }
           }
@@ -147,9 +147,10 @@
   },
   "active": "f5660b88b26da4e6",
   "lastOpenFiles": [
-    "Statements/Mag1 - Angler fish.md",
     "Statements/Mag2 - Do Not Open.md",
     "Statements/Mag3 - Across the Street.md",
+    "Statements/Mag4 - Page Turner.md",
+    "Statements/Mag1 - Angler fish.md",
     "timeline.md",
     "Untitled Diagram.svg",
     "Organizations/the magnus institute.md",
