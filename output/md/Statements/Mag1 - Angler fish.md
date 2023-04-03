@@ -14,8 +14,7 @@
 >[!info]- Episode Info   
 >Recording by [Jonathan Sims](../Characters/Jonathan%20Sims.md)   
 >Statement of [Nathan Watts](/not_created.md)   
->Recorded on   
->Statement given on   
+>Statement given on 4/22/12   
 >   
 >Characters   
 >   
