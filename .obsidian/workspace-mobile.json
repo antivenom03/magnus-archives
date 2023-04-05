@@ -123,6 +123,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
@@ -131,6 +132,7 @@
   },
   "active": "c2d5b627cf721c7c",
   "lastOpenFiles": [
+    "/Statements/Mag1 - Angler fish.md",
     "Statements/Mag16 - Arachnaphobia.md",
     "Statements/Mag12 - First Aid.md",
     "Statements/Mag13 - Alone.md",
@@ -156,7 +158,6 @@
     "/Statements/Mag8 - Burned Out.md",
     "/Statements/Mag7 - The Piper.md",
     "/Statements/Mag6 - Squirm.md",
-    "/Statements/Mag5 - Thrown Away.md",
     "template",
     "/template",
     "MAG 001 - Anglerfish - Transcript Re-formatted.pdf"
