@@ -10,7 +10,7 @@ var CONFIGURED_HTML_URL_PREFIX = "/magnus-archives";
 var RELATIVE_PATHS = 0;
 var documentation_mode = 1;
 var tab_mode = !no_tab_mode;
-var gzip_hash = '89551605009281834711269620219440984577'                       // used to check whether the localStorage data is stale
+var gzip_hash = '318231357938917436929176423049531521609'                       // used to check whether the localStorage data is stale
 
 // global cache
 var fn_cache_ls_available = null;
