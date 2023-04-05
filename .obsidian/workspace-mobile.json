@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statements/Statements.md",
+                "file": "Statements/Mag3 - Across the Street.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Statements/Statements.md",
+            "file": "Statements/Mag3 - Across the Street.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Statements/Statements.md",
+            "file": "Statements/Mag3 - Across the Street.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Statements/Statements.md"
+            "file": "Statements/Mag3 - Across the Street.md"
           }
         }
       }
@@ -132,6 +132,9 @@
   },
   "active": "c2d5b627cf721c7c",
   "lastOpenFiles": [
+    "Statements/Mag1 - Angler fish.md",
+    "Statements/Mag3 - Across the Street.md",
+    "Statements/Statements.md",
     "/Statements/Mag3 - Across the Street.md",
     "/Statements/Mag2 - Do Not Open.md",
     "/Statements/Mag1 - Angler fish.md",
@@ -155,9 +158,6 @@
     "Statements/Mag9 - A Father's Love.md",
     "Statements/Mag22 - Colony.md",
     "/template/template.md",
-    "/Statements/Statements.md",
-    "/Statements/Mag9 - A Father's Love.md",
-    "/Statements/Mag8 - Burned Out.md",
     "template",
     "/template",
     "MAG 001 - Anglerfish - Transcript Re-formatted.pdf"
