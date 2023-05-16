@@ -1,6 +1,7 @@
 ---
 {}
 ---
+# Mag19 - Confession I   
    
 >[!warning]- Content Warnings   
 >-    

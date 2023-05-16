@@ -1,6 +1,7 @@
 ---
 {}
 ---
+# Mag8 - Burned Out   
    
 >[!warning]- Content Warnings   
 >-    

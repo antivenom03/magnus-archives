@@ -1,6 +1,7 @@
 ---
 {}
 ---
+# Mag25 - Growing Dark   
    
 >[!warning]- Content Warnings   
 >-    

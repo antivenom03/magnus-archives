@@ -1,0 +1,23 @@
+html_url_prefix: /magnus-archives
+navbar_links:
+- link: index.html
+  name: Home
+- link: Statements/Statements.html
+  name: Statements
+obsidian_entrypoint_path_str: magnus-archives/homepage.md
+site_name: the magnus archives
+toggles:
+  features:
+    create_index_from_dir_structure:
+      enabled: false
+    side_pane:
+      left_pane:
+        enabled: false
+      right_pane:
+        enabled: false
+    styling:
+      layout: documentation
+      max_note_width: 45rem
+    tags_page:
+      enabled: false
+  process_all: true

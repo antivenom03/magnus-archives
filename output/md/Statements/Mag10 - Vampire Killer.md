@@ -1,6 +1,7 @@
 ---
 {}
 ---
+# Mag10 - Vampire Killer   
    
 >[!warning]- Content Warnings   
 >-    

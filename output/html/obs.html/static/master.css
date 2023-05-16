@@ -327,10 +327,6 @@ td:nth-child(2n) {
     border-right: 1px dotted rgb(var(--table-border-color-rgb), 0.3);
 }
 
-td:first-child {
-    min-width: max-content;
-}
-
 th:first-child,
 td:first-child {
     padding-left: 0rem;
@@ -984,7 +980,11 @@ audio {
     margin-left: 4px;
 }
 
-
+.smiles_canvas {
+    background-color: rgb(5, 11, 21);
+    border-radius: 0.5rem;
+    margin-bottom: 1rem;
+}
 /*  ----------------------------------------- /GLOBAL ------------------------------------------------ */
 
 
@@ -1075,6 +1075,29 @@ text {
 .graph_header_div_svg {
     width: 1.3rem;
 }
+
+.graph-instructions {
+    width: 100%;
+    text-align: right;
+    color: var(--bg-accent2);
+    position: relative;
+    top: -1.4rem;
+    font-family: monospace;
+    font-size: small;
+    right: 1rem;
+    opacity: 0;
+    text-shadow: #090909 2px 1px 2px;
+}
+
+.fadein {
+    animation: fadeIn 1s;
+    animation-fill-mode: forwards;
+}
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
 /*  ----------------------------------------- /GRAPHS ------------------------------------------------ */
 
 

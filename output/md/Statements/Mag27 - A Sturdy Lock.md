@@ -1,6 +1,7 @@
 ---
 {}
 ---
+# Mag27 - A Sturdy Lock   
    
 >[!warning]- Content Warnings   
 >-    

@@ -1,6 +1,7 @@
 ---
 {}
 ---
+# Mag5 - Thrown Away   
    
 >[!warning]- Content Warnings   
 >-    

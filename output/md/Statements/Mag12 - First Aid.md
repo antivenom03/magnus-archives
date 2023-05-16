@@ -1,6 +1,7 @@
 ---
 {}
 ---
+# Mag12 - First Aid   
    
 >[!warning]- Content Warnings   
 >-    

@@ -1,6 +1,7 @@
 ---
 {}
 ---
+# Mag28 - skintight   
    
 >[!info]- Linked Pages   
 >Characters   

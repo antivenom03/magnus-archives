@@ -1,6 +1,7 @@
 ---
 {}
 ---
+# Mag18 - The Man Upstairs   
    
 >[!warning]- Content Warnings   
 >-    

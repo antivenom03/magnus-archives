@@ -1,6 +1,7 @@
 ---
 {}
 ---
+# Mag17 - The Bone Turner's Tale   
    
 >[!warning]- Content Warnings   
 >-    

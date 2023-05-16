@@ -1,6 +1,7 @@
 ---
 {}
 ---
+# Mag2 - Do Not Open   
    
 >[!warning]- Content Warnings   
 >- Haunting   

@@ -1,6 +1,7 @@
 ---
 {}
 ---
+# Mag26 - A Distortion   
    
 >[!warning]- Content Warnings   
 >-    

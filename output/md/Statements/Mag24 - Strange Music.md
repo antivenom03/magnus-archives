@@ -1,6 +1,7 @@
 ---
 {}
 ---
+# Mag24 - Strange Music   
    
 >[!warning]- Content Warnings   
 >-    

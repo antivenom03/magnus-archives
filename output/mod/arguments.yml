@@ -1,0 +1,5 @@
+command:
+- convert
+config_path: /home/runner/work/magnus-archives/magnus-archives/config.yaml
+literals:
+  -i: /home/runner/work/magnus-archives/magnus-archives/config.yaml

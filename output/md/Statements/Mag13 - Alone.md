@@ -1,6 +1,7 @@
 ---
 {}
 ---
+# Mag13 - Alone   
    
 >[!warning]- Content Warnings   
 >-    
