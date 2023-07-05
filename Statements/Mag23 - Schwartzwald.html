@@ -16,8 +16,16 @@
                 <script src="/magnus-archives/obs.html/static/obsidian_core.js"></script>
 <script src="/magnus-archives/obs.html/static/encoding.js"></script>
 <link rel="stylesheet" href="/magnus-archives/obs.html/static/master.css" />
-<script src="/magnus-archives/obs.html/static/mermaid.9.0.1.min.js"></script>
-<link rel="stylesheet" href="/magnus-archives/obs.html/static/mermaid.css" />
+<script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({
+            'securityLevel': 'loose',
+            'theme': 'dark',
+            'themeVariables': {
+                    'darkMode': true,
+            }
+    });
+</script>
 <script>
   MathJax = {
     loader: {
@@ -72,8 +80,8 @@
                         <div id="search-results"></div>
                     </div>
                     <div id="search-instructions">
-                        <div class="prompt-instruction">
-                                <b>esc</b> to dismiss
+                        <div class="prompt-instruction mobile">
+                            <button onclick="toggle_id('search-master-div');"><b>Close</b> Search </button>
                         </div>
                     </div>
             </div>
@@ -192,7 +200,6 @@
     <label for="cars">Theme </label>
 
     <select name="theme" id="theme" onchange="set_theme(this.value)">
-      <option value="light">light</option>
       <option value="obs-light" selected="selected">obsidian-light</option>
       <option value="obs-dark">obsidian-dark</option>
     </select> 
@@ -212,9 +219,9 @@
 </div>
 </div>
 <div class="callout-content">
-<h2 id="-">-</h2>
-<h2 id="-_1">-</h2>
-<h2 id="-_2">-</h2>
+<h2 id="h_-">-</h2>
+<h2 id="h_-_1">-</h2>
+<h2 id="h_-_2">-</h2>
 <p>-</p>
 </div>
 </div>
@@ -228,9 +235,9 @@
 </div>
 </div>
 <div class="callout-content">
-<h2 id="-_3">-</h2>
-<h2 id="-_4">-</h2>
-<h2 id="-_5">-</h2>
+<h2 id="h_-_3">-</h2>
+<h2 id="h_-_4">-</h2>
+<h2 id="h_-_5">-</h2>
 </div>
 </div>
 <h2 id="recording-begins">Recording Begins</h2>
@@ -269,17 +276,17 @@
 
 </div>
 <div class="graph requires_js ">
-    <div id="A54914238019988806230827929271155955704{level}" class="graph_div"></div>
+    <div id="A137612534528116554573072496291556873760{level}" class="graph_div"></div>
 
-    <div class="graph-instructions" id="D54914238019988806230827929271155955704{level}">
+    <div class="graph-instructions" id="D137612534528116554573072496291556873760{level}">
         Left-click: follow link, Right-click: select node, Scroll: zoom
     </div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B54914238019988806230827929271155955704{level}" level="{level}" note_temp_id="54914238019988806230827929271155955704" onclick="window.ObsHtmlGraph.run(this, '54914238019988806230827929271155955704', 'mag23 - schwartzwald');">
+        <button class="graph_button graph_show_button" id="B137612534528116554573072496291556873760{level}" level="{level}" note_temp_id="137612534528116554573072496291556873760" onclick="window.ObsHtmlGraph.run(this, '137612534528116554573072496291556873760', 'mag23 - schwartzwald');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C54914238019988806230827929271155955704{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C137612534528116554573072496291556873760{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>

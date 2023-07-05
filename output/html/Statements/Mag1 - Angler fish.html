@@ -16,8 +16,16 @@
                 <script src="/magnus-archives/obs.html/static/obsidian_core.js"></script>
 <script src="/magnus-archives/obs.html/static/encoding.js"></script>
 <link rel="stylesheet" href="/magnus-archives/obs.html/static/master.css" />
-<script src="/magnus-archives/obs.html/static/mermaid.9.0.1.min.js"></script>
-<link rel="stylesheet" href="/magnus-archives/obs.html/static/mermaid.css" />
+<script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({
+            'securityLevel': 'loose',
+            'theme': 'dark',
+            'themeVariables': {
+                    'darkMode': true,
+            }
+    });
+</script>
 <script>
   MathJax = {
     loader: {
@@ -72,8 +80,8 @@
                         <div id="search-results"></div>
                     </div>
                     <div id="search-instructions">
-                        <div class="prompt-instruction">
-                                <b>esc</b> to dismiss
+                        <div class="prompt-instruction mobile">
+                            <button onclick="toggle_id('search-master-div');"><b>Close</b> Search </button>
                         </div>
                     </div>
             </div>
@@ -192,7 +200,6 @@
     <label for="cars">Theme </label>
 
     <select name="theme" id="theme" onchange="set_theme(this.value)">
-      <option value="light">light</option>
       <option value="obs-light" selected="selected">obsidian-light</option>
       <option value="obs-dark">obsidian-dark</option>
     </select> 
@@ -213,12 +220,12 @@
 </div>
 <div class="callout-content">
 <ul>
-<li>Alcohol use &amp; drunkenness</li>
-<li>Smoking</li>
-<li>Human remains</li>
-<li>Body horror</li>
-<li>Discussions of: Abductions &amp; missing people</li>
-<li>Mentions of: Death, emetophobia, injury, food, hallucinations</li>
+<li>Alcohol use &amp; drunkenness   </li>
+<li>Smoking   </li>
+<li>Human remains   </li>
+<li>Body horror   </li>
+<li>Discussions of: Abductions &amp; missing people   </li>
+<li>Mentions of: Death, emetophobia, injury, food, hallucinations   </li>
 <li>SFX: Brief static</li>
 </ul>
 </div>
@@ -233,31 +240,31 @@
 </div>
 </div>
 <div class="callout-content">
-<p>Recording by <a href="/magnus-archives/Characters/Jonathan%20Sims.html">Jonathan Sims</a>
-Statement of <a href="/magnus-archives/not_created.html" class="nonexistent-link">Nathan Watts</a>
-Statement given on 4/22/12</p>
-<p>Characters</p>
-<ul>
-<li><a href="/magnus-archives/Characters/Elias%20Bouchard.html">Elias Bouchard</a></li>
-<li><a href="/magnus-archives/Characters/Gertrude%20Robinson.html">Gertrude Robinson</a></li>
-<li><a href="/magnus-archives/Characters/Tim%20Stoker.html">Tim Stoker</a></li>
-<li><a href="/magnus-archives/Characters/Martin%20Blackwood.html">Martin Blackwood</a></li>
-<li><a href="/magnus-archives/Characters/Sasha%20James.html">Sasha James</a></li>
-<li><a href="/magnus-archives/not_created.html" class="nonexistent-link">Michael MacAulay</a></li>
-<li><a href="/magnus-archives/not_created.html" class="nonexistent-link">John Fellowes</a></li>
-<li><a href="/magnus-archives/not_created.html" class="nonexistent-link">Jessica McEwen</a></li>
-<li><a href="/magnus-archives/not_created.html" class="nonexistent-link">Sarah Baldwin</a></li>
-<li><a href="/magnus-archives/not_created.html" class="nonexistent-link">Daniel Rawlings</a></li>
-<li><a href="/magnus-archives/not_created.html" class="nonexistent-link">Ashley Dobson</a></li>
-<li><a href="/magnus-archives/not_created.html" class="nonexistent-link">Megan Shaw</a></li>
-</ul>
-<p>Places</p>
-<ul>
-<li><a href="/magnus-archives/Organizations/the%20magnus%20institute.html">the magnus institute</a></li>
-<li><a href="/magnus-archives/Places/the%20archives.html">the archives</a></li>
-<li><a href="/magnus-archives/not_created.html" class="nonexistent-link">Old Fishmarket Close, Edinburgh</a></li>
-<li><a href="/magnus-archives/not_created.html" class="nonexistent-link">the Albanach</a></li>
-</ul>
+<p>Recording by <a href="/magnus-archives/Characters/Jonathan%20Sims.html">Jonathan Sims</a> <br />
+Statement of <a href="/magnus-archives/not_created.html" class="nonexistent-link">Nathan Watts</a> <br />
+Statement given on 4/22/12 <br />
+<br />
+Characters <br />
+<br />
+- <a href="/magnus-archives/Characters/Elias%20Bouchard.html">Elias Bouchard</a> <br />
+- <a href="/magnus-archives/Characters/Gertrude%20Robinson.html">Gertrude Robinson</a> <br />
+- <a href="/magnus-archives/Characters/Tim%20Stoker.html">Tim Stoker</a> <br />
+- <a href="/magnus-archives/Characters/Martin%20Blackwood.html">Martin Blackwood</a> <br />
+- <a href="/magnus-archives/Characters/Sasha%20James.html">Sasha James</a> <br />
+- <a href="/magnus-archives/not_created.html" class="nonexistent-link">Michael MacAulay</a> <br />
+- <a href="/magnus-archives/not_created.html" class="nonexistent-link">John Fellowes</a> <br />
+- <a href="/magnus-archives/not_created.html" class="nonexistent-link">Jessica McEwen</a> <br />
+- <a href="/magnus-archives/not_created.html" class="nonexistent-link">Sarah Baldwin</a> <br />
+- <a href="/magnus-archives/not_created.html" class="nonexistent-link">Daniel Rawlings</a> <br />
+- <a href="/magnus-archives/not_created.html" class="nonexistent-link">Ashley Dobson</a> <br />
+- <a href="/magnus-archives/not_created.html" class="nonexistent-link">Megan Shaw</a> <br />
+<br />
+Places <br />
+<br />
+- <a href="/magnus-archives/Organizations/the%20magnus%20institute.html">the magnus institute</a> <br />
+- <a href="/magnus-archives/Places/the%20archives.html">the archives</a> <br />
+- <a href="/magnus-archives/not_created.html" class="nonexistent-link">Old Fishmarket Close, Edinburgh</a> <br />
+- <a href="/magnus-archives/not_created.html" class="nonexistent-link">the Albanach</a></p>
 </div>
 </div>
 <div class="callout callout-info active callout-folded inactive" rasa="1">
@@ -368,17 +375,17 @@ Test… Test… Test… 1, 2, 3... Right.    </p>
 
 </div>
 <div class="graph requires_js ">
-    <div id="A125290437119914728980068751479787301493{level}" class="graph_div"></div>
+    <div id="A34703504582653133333764635046025125989{level}" class="graph_div"></div>
 
-    <div class="graph-instructions" id="D125290437119914728980068751479787301493{level}">
+    <div class="graph-instructions" id="D34703504582653133333764635046025125989{level}">
         Left-click: follow link, Right-click: select node, Scroll: zoom
     </div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B125290437119914728980068751479787301493{level}" level="{level}" note_temp_id="125290437119914728980068751479787301493" onclick="window.ObsHtmlGraph.run(this, '125290437119914728980068751479787301493', 'mag1 - angler fish');">
+        <button class="graph_button graph_show_button" id="B34703504582653133333764635046025125989{level}" level="{level}" note_temp_id="34703504582653133333764635046025125989" onclick="window.ObsHtmlGraph.run(this, '34703504582653133333764635046025125989', 'mag1 - angler fish');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C125290437119914728980068751479787301493{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C34703504582653133333764635046025125989{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>

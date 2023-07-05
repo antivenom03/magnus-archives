@@ -16,8 +16,16 @@
                 <script src="/magnus-archives/obs.html/static/obsidian_core.js"></script>
 <script src="/magnus-archives/obs.html/static/encoding.js"></script>
 <link rel="stylesheet" href="/magnus-archives/obs.html/static/master.css" />
-<script src="/magnus-archives/obs.html/static/mermaid.9.0.1.min.js"></script>
-<link rel="stylesheet" href="/magnus-archives/obs.html/static/mermaid.css" />
+<script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({
+            'securityLevel': 'loose',
+            'theme': 'dark',
+            'themeVariables': {
+                    'darkMode': true,
+            }
+    });
+</script>
 <script>
   MathJax = {
     loader: {
@@ -72,8 +80,8 @@
                         <div id="search-results"></div>
                     </div>
                     <div id="search-instructions">
-                        <div class="prompt-instruction">
-                                <b>esc</b> to dismiss
+                        <div class="prompt-instruction mobile">
+                            <button onclick="toggle_id('search-master-div');"><b>Close</b> Search </button>
                         </div>
                     </div>
             </div>
@@ -192,7 +200,6 @@
     <label for="cars">Theme </label>
 
     <select name="theme" id="theme" onchange="set_theme(this.value)">
-      <option value="light">light</option>
       <option value="obs-light" selected="selected">obsidian-light</option>
       <option value="obs-dark">obsidian-dark</option>
     </select> 
@@ -213,10 +220,10 @@
 </div>
 <div class="callout-content">
 <ul>
-<li>Haunting</li>
-<li>Sleep disorders</li>
-<li>Discussions of: Alcohol &amp; drug use, caskets</li>
-<li>Mentions of: Isolation, stress, human remains, suffocation, food</li>
+<li>Haunting   </li>
+<li>Sleep disorders   </li>
+<li>Discussions of: Alcohol &amp; drug use, caskets   </li>
+<li>Mentions of: Isolation, stress, human remains, suffocation, food   </li>
 <li>SFX: High-pitched tones</li>
 </ul>
 </div>
@@ -231,22 +238,23 @@
 </div>
 </div>
 <div class="callout-content">
-<p>Recording by <a href="/magnus-archives/Characters/Jonathan%20Sims.html">Jonathan Sims</a>
-Statement of <a href="/magnus-archives/not_created.html" class="nonexistent-link">Joshua Galespi</a>
-Statement given on 11/22/1998</p>
-<p>Characters</p>
-<ul>
-<li><a href="/magnus-archives/Characters/John.html">John</a></li>
-</ul>
-<p>Places</p>
-<ul>
-<li><a href="/magnus-archives/not_created.html" class="nonexistent-link">Amsterdam</a></li>
-<li><a href="/magnus-archives/not_created.html" class="nonexistent-link">Elandsstraat</a></li>
-<li><a href="/magnus-archives/not_created.html" class="nonexistent-link">Liverpool</a></li>
-<li><a href="/magnus-archives/not_created.html" class="nonexistent-link">Bournemouth</a></li>
-<li><a href="/magnus-archives/not_created.html" class="nonexistent-link">the Triangle</a></li>
-</ul>
-<p>Organizations
+<p>Recording by <a href="/magnus-archives/Characters/Jonathan%20Sims.html">Jonathan Sims</a> <br />
+Statement of <a href="/magnus-archives/not_created.html" class="nonexistent-link">Joshua Galespi</a> <br />
+Statement given on 11/22/1998 <br />
+<br />
+Characters <br />
+<br />
+- <a href="/magnus-archives/Characters/John.html">John</a> <br />
+<br />
+Places <br />
+<br />
+- <a href="/magnus-archives/not_created.html" class="nonexistent-link">Amsterdam</a> <br />
+- <a href="/magnus-archives/not_created.html" class="nonexistent-link">Elandsstraat</a> <br />
+- <a href="/magnus-archives/not_created.html" class="nonexistent-link">Liverpool</a> <br />
+- <a href="/magnus-archives/not_created.html" class="nonexistent-link">Bournemouth</a> <br />
+- <a href="/magnus-archives/not_created.html" class="nonexistent-link">the Triangle</a> <br />
+<br />
+Organizations <br />
 - <a href="/magnus-archives/not_created.html" class="nonexistent-link">Breekon and Hope Deliveries</a></p>
 </div>
 </div>
@@ -364,17 +372,17 @@ Statement of Joshua Gillespie, regarding his time in possession of an apparently
 
 </div>
 <div class="graph requires_js ">
-    <div id="A339654631618468725755922302037612617910{level}" class="graph_div"></div>
+    <div id="A167364427577469900171231867439854188334{level}" class="graph_div"></div>
 
-    <div class="graph-instructions" id="D339654631618468725755922302037612617910{level}">
+    <div class="graph-instructions" id="D167364427577469900171231867439854188334{level}">
         Left-click: follow link, Right-click: select node, Scroll: zoom
     </div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B339654631618468725755922302037612617910{level}" level="{level}" note_temp_id="339654631618468725755922302037612617910" onclick="window.ObsHtmlGraph.run(this, '339654631618468725755922302037612617910', 'mag2 - do not open');">
+        <button class="graph_button graph_show_button" id="B167364427577469900171231867439854188334{level}" level="{level}" note_temp_id="167364427577469900171231867439854188334" onclick="window.ObsHtmlGraph.run(this, '167364427577469900171231867439854188334', 'mag2 - do not open');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C339654631618468725755922302037612617910{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C167364427577469900171231867439854188334{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>
