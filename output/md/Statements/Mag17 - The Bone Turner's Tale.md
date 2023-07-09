@@ -1,5 +1,5 @@
 ---
-{}
+tags: []
 ---
 # Mag17 - The Bone Turner's Tale   
    

@@ -1,5 +1,5 @@
 ---
-{}
+tags: []
 ---
 # Mag24 - Strange Music   
    

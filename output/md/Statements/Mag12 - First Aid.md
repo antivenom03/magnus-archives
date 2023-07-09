@@ -1,5 +1,5 @@
 ---
-{}
+tags: []
 ---
 # Mag12 - First Aid   
    

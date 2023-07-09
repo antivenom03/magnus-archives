@@ -1,5 +1,5 @@
 ---
-{}
+tags: []
 ---
 # Mag21 - Freefall   
    

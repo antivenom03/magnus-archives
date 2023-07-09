@@ -1,5 +1,5 @@
 ---
-{}
+tags: []
 ---
 # Mag3 - Across the Street   
    

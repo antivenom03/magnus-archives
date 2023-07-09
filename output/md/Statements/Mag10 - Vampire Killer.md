@@ -1,5 +1,5 @@
 ---
-{}
+tags: []
 ---
 # Mag10 - Vampire Killer   
    

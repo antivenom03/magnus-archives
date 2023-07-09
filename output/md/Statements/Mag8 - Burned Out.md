@@ -1,5 +1,5 @@
 ---
-{}
+tags: []
 ---
 # Mag8 - Burned Out   
    

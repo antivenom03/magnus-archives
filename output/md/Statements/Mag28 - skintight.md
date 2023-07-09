@@ -1,5 +1,5 @@
 ---
-{}
+tags: []
 ---
 # Mag28 - skintight   
    

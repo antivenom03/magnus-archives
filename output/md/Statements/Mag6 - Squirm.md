@@ -1,5 +1,5 @@
 ---
-{}
+tags: []
 ---
 # Mag6 - Squirm   
    

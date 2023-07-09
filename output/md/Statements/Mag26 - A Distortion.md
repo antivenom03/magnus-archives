@@ -1,5 +1,5 @@
 ---
-{}
+tags: []
 ---
 # Mag26 - A Distortion   
    

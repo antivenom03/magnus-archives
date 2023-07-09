@@ -1,5 +1,5 @@
 ---
-{}
+tags: []
 ---
 # Mag16 - Arachnaphobia   
    

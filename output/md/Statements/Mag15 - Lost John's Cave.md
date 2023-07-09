@@ -1,5 +1,5 @@
 ---
-{}
+tags: []
 ---
 # Mag15 - Lost John's Cave   
    

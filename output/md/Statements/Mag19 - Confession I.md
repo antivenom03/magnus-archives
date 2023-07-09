@@ -1,5 +1,5 @@
 ---
-{}
+tags: []
 ---
 # Mag19 - Confession I   
    

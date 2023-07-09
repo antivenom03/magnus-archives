@@ -1,5 +1,5 @@
 ---
-{}
+tags: []
 ---
 # Mag9 - A Father's Love   
    

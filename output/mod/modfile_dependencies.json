@@ -14,6 +14,7 @@
       "resource_logger (ResourceLoggerMetaModule)",
       "process_config (ProcessConfigModule)",
       "load_paths (LoadPathsModule)",
+      "process_config_auto (ProcessConfigAutoModule)",
       "html_templater (HtmlTemplaterModule)",
       "load_graphers (LoadGrapherModule)",
       "get_file_list (GetFileListModule)",
@@ -21,7 +22,8 @@
       "prepare_output_folders (PrepareOutputFoldersModule)"
     ],
     "altered_by": [
-      "process_config (ProcessConfigModule)"
+      "process_config (ProcessConfigModule)",
+      "process_config_auto (ProcessConfigAutoModule)"
     ]
   },
   "capabilities.json": {
@@ -45,6 +47,7 @@
       "load_paths (LoadPathsModule)"
     ],
     "required_by": [
+      "process_config_auto (ProcessConfigAutoModule)",
       "get_file_list (GetFileListModule)",
       "parse_metadata (ParseMetadataModule)",
       "filter_on_metadata (FilterOnMetadataModule)",

@@ -1,5 +1,5 @@
 ---
-{}
+tags: []
 ---
 # Mag7 - The Piper   
    

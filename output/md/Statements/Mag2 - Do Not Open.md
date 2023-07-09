@@ -1,5 +1,5 @@
 ---
-{}
+tags: []
 ---
 # Mag2 - Do Not Open   
    

@@ -1,5 +1,5 @@
 ---
-{}
+tags: []
 ---
 # Mag14 - Piecemeal   
    

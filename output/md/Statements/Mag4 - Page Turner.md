@@ -1,5 +1,5 @@
 ---
-{}
+tags: []
 ---
 # Mag4 - Page Turner   
    

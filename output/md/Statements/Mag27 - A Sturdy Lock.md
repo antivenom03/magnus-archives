@@ -1,5 +1,5 @@
 ---
-{}
+tags: []
 ---
 # Mag27 - A Sturdy Lock   
    

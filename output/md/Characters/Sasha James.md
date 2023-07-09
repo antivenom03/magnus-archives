@@ -1,5 +1,5 @@
 ---
-{}
+tags: []
 ---
 # Sasha James   
    

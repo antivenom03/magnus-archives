@@ -1,5 +1,5 @@
 ---
-{}
+tags: []
 ---
 # Mag5 - Thrown Away   
    

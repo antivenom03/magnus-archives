@@ -70,6 +70,8 @@ module_list:
     name: process_config
   - description: Determine all paths of interest based on input.
     name: load_paths
+  - description: Fills in auto values that can be read from the vault config.
+    name: process_config_auto
   - description: Prepare and export templates used to create html output.
     name: html_templater
     persistent: true

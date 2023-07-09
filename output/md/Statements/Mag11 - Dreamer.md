@@ -1,5 +1,5 @@
 ---
-{}
+tags: []
 ---
 # Mag11 - Dreamer   
    

@@ -1,5 +1,5 @@
 ---
-{}
+tags: []
 ---
 # Mag22 - Colony   
    

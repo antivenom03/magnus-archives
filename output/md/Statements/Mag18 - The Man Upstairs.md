@@ -1,5 +1,5 @@
 ---
-{}
+tags: []
 ---
 # Mag18 - The Man Upstairs   
    

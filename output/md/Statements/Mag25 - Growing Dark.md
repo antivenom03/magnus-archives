@@ -1,5 +1,5 @@
 ---
-{}
+tags: []
 ---
 # Mag25 - Growing Dark   
    

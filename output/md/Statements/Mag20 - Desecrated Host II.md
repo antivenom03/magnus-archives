@@ -1,5 +1,5 @@
 ---
-{}
+tags: []
 ---
 # Mag20 - Desecrated Host II   
    
